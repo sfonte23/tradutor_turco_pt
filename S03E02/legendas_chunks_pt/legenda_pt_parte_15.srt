@@ -1,0 +1,647 @@
+Claro! Aqui está a tradução para o português, mantendo o formato SRT:
+
+```srt
+1
+00:00:00,000 --> 00:00:12,280
+Abidin irmão.
+
+2
+00:00:12,320 --> 00:00:14,440
+Bom dia.
+
+3
+00:00:14,480 --> 00:00:15,320
+Bom dia.
+
+4
+00:00:15,360 --> 00:00:18,920
+Abidin irmão.
+
+5
+00:00:18,959 --> 00:00:21,120
+Vou te pedir uma coisa.
+
+6
+00:00:21,160 --> 00:00:23,520
+Mas vai ficar entre nós, tá bom?
+
+7
+00:00:23,559 --> 00:00:24,920
+Promete.
+
+8
+00:00:24,959 --> 00:00:26,440
+Tá bom, prometo.
+
+9
+00:00:27,040 --> 00:00:31,320
+Você pode entregar isso ao Ferit?
+
+10
+00:00:31,360 --> 00:00:35,799
+Mas, por favor, que fique entre nós, é muito importante.
+
+11
+00:00:35,840 --> 00:00:38,439
+O que é isso, Seyran?
+
+12
+00:00:38,480 --> 00:00:41,759
+Um desenho.
+
+13
+00:00:41,799 --> 00:00:47,639
+Hoje tem uma apresentação do Ferit, por isso eu desenhei isso para ele.
+
+14
+00:00:47,680 --> 00:00:51,360
+Eu não faria se ele não estivesse em uma situação difícil, você sabe, Abidin irmão.
+
+15
+00:00:52,360 --> 00:00:57,360
+Eu também não deveria fazer isso.
+
+16
+00:00:57,400 --> 00:01:02,400
+Mas eu vou fazer pelo Ferit.
+
+17
+00:01:02,439 --> 00:01:06,040
+A propósito, você desenhou muito bem.
+
+18
+00:01:06,080 --> 00:01:07,919
+Obrigada.
+
+19
+00:01:07,959 --> 00:01:11,160
+Muito obrigado, Abidin irmão, de verdade.
+
+20
+00:01:11,199 --> 00:01:12,360
+Entre nós, mas é promessa.
+
+21
+00:01:12,400 --> 00:01:13,360
+Tá bom.
+
+22
+00:01:13,400 --> 00:01:14,559
+Obrigado de novo.
+
+23
+00:01:14,599 --> 00:01:15,680
+Eu estou indo.
+
+24
+00:01:15,720 --> 00:01:20,879
+Alô, Sinan.
+
+25
+00:01:21,440 --> 00:01:23,839
+Tá bom.
+
+26
+00:01:23,879 --> 00:01:24,919
+Tá bom.
+
+27
+00:01:24,959 --> 00:01:27,680
+Eu já estou indo.
+
+28
+00:01:27,720 --> 00:01:33,480
+Mamãe, bom dia.
+
+29
+00:01:33,519 --> 00:01:34,559
+Bom dia, minha filha.
+
+30
+00:01:34,599 --> 00:01:35,559
+Bom trabalho, mãe.
+
+31
+00:01:35,599 --> 00:01:36,480
+Obrigada.
+
+32
+00:01:36,519 --> 00:01:43,239
+Irmã.
+
+33
+00:01:43,279 --> 00:01:44,239
+Querida.
+
+34
+00:01:44,279 --> 00:01:47,279
+Sinan ligou.
+
+35
+00:01:47,320 --> 00:01:48,160
+Tá bom.
+
+36
+00:01:48,599 --> 00:01:52,199
+Ele disse que é urgente, vem logo.
+
+37
+00:01:52,239 --> 00:01:54,199
+Estou saindo agora, só para você saber.
+
+38
+00:01:54,239 --> 00:01:55,000
+Tá bom.
+
+39
+00:01:55,040 --> 00:01:56,120
+Não pense muito.
+
+40
+00:01:56,160 --> 00:01:58,000
+Vai lá e converse, tá bom?
+
+41
+00:01:58,040 --> 00:01:59,720
+Fica tranquila, não vai acontecer nada.
+
+42
+00:01:59,760 --> 00:02:00,839
+Espero que sim, irmã.
+
+43
+00:02:00,879 --> 00:02:02,199
+Espero que sim, querida.
+
+44
+00:02:02,239 --> 00:02:03,680
+Não se preocupe.
+
+45
+00:02:03,720 --> 00:02:05,720
+Tá bom, me avise, tudo bem?
+
+46
+00:02:05,760 --> 00:02:07,000
+Tá bom, eu avisarei. Bom apetite.
+
+47
+00:02:07,040 --> 00:02:07,839
+Obrigada.
+
+48
+00:02:07,879 --> 00:02:10,679
+Mãe, eu estou saindo para tomar café fora.
+
+49
+00:02:10,720 --> 00:02:12,080
+Tá bom, filha.
+
+50
+00:02:12,080 --> 00:02:19,080
+Vamos nos encontrar no parque, o dinheiro está pronto.
+
+51
+00:02:19,119 --> 00:02:30,360
+Mãe, eu tenho um compromisso, vou resolver isso e depois volto, tá bom?
+
+52
+00:02:30,399 --> 00:02:31,240
+Até mais.
+
+53
+00:02:31,279 --> 00:02:32,160
+Para onde você vai?
+
+54
+00:02:32,199 --> 00:02:33,039
+A mesa está pronta.
+
+55
+00:02:33,080 --> 00:02:36,000
+Ai, o que está acontecendo? Todo mundo está saindo essa manhã?
+
+56
+00:02:36,039 --> 00:02:38,479
+Quem vai comer tudo isso?
+
+57
+00:02:39,479 --> 00:02:52,479
+Bom dia.
+
+58
+00:02:52,520 --> 00:02:53,240
+Bom dia.
+
+59
+00:02:53,279 --> 00:02:54,080
+Não agora.
+
+60
+00:02:54,119 --> 00:02:55,080
+Por favor.
+
+61
+00:02:55,119 --> 00:02:58,119
+Continue.
+
+62
+00:03:08,479 --> 00:03:28,479
+Agora vamos ver se você entende.
+
+63
+00:03:28,520 --> 00:03:32,520
+Qual é o seu problema, minha linda, o que está te incomodando?
+
+64
+00:03:33,479 --> 00:03:38,479
+A todos, bom dia.
+
+65
+00:03:38,520 --> 00:03:42,479
+Ayşen, traga algo para meu quarto, minha cabeça está doendo.
+
+66
+00:03:42,520 --> 00:03:47,520
+Bom dia, Senhor Orhan.
+
+67
+00:03:47,559 --> 00:03:48,639
+Bom dia.
+
+68
+00:03:48,679 --> 00:03:49,880
+Você não vai se sentar?
+
+69
+00:03:49,919 --> 00:03:52,520
+Obrigado, aproveite. Precisamos sair.
+
+70
+00:03:52,559 --> 00:03:56,520
+Eles nos ligaram várias vezes desde a manhã.
+
+71
+00:03:56,559 --> 00:04:00,639
+Vamos lá e digamos pessoalmente que não conseguimos.
+
+72
+00:04:00,800 --> 00:04:03,800
+Mas não perca a esperança.
+
+73
+00:04:03,839 --> 00:04:07,160
+Ferit esteve ontem à tarde no ateliê.
+
+74
+00:04:07,199 --> 00:04:10,000
+Enquanto houver vida, há esperança.
+
+75
+00:04:10,039 --> 00:04:12,360
+A vida dele já se foi, Hattu.
+
+76
+00:04:12,399 --> 00:04:13,639
+Vamos embora.
+
+77
+00:04:13,679 --> 00:04:19,679
+Olha esses caras fazendo esse drama todo.
+
+78
+00:04:19,720 --> 00:04:23,119
+Vocês têm uma grande casa, um grande lugar.
+
+79
+00:04:23,160 --> 00:04:24,799
+E o que vai acontecer com esse bolo?
+
+80
+00:04:25,079 --> 00:04:26,079
+Estão loucos?
+
+81
+00:04:31,480 --> 00:04:32,480
+Por que você está rindo?
+
+82
+00:04:37,799 --> 00:04:40,040
+Eu não te contei?
+
+83
+00:04:40,079 --> 00:04:41,640
+Nihal não é dos Korhan.
+
+84
+00:04:41,679 --> 00:04:42,799
+O que?
+
+85
+00:04:42,839 --> 00:04:44,160
+De quem é?
+
+86
+00:04:44,200 --> 00:04:46,200
+É da Seyra.
+
+87
+00:04:46,239 --> 00:04:50,239
+Os Korhans são os inquilinos da Seyra, como você sabe.
+
+88
+00:04:54,799 --> 00:04:55,799
+Não tenha medo.
+
+89
+00:05:15,760 --> 00:05:16,760
+Aqui.
+
+90
+00:05:16,799 --> 00:05:17,799
+Dê.
+
+91
+00:05:17,839 --> 00:05:20,399
+Não se preocupe.
+
+92
+00:05:20,440 --> 00:05:22,239
+Eu cuidei dela como meus olhos.
+
+93
+00:05:22,279 --> 00:05:23,959
+Não há um arranhão sequer em mim.
+
+94
+00:05:25,000 --> 00:05:27,000
+Certo.
+
+95
+00:05:27,040 --> 00:05:31,040
+Essa é a quantia que basta para mim.
+
+96
+00:05:31,079 --> 00:05:35,079
+Por enquanto.
+
+97
+00:05:35,119 --> 00:05:38,320
+Por enquanto, o que, Şevki?
+
+98
+00:05:38,359 --> 00:05:39,760
+Por enquanto, agora não.
+
+99
+00:05:39,799 --> 00:05:41,359
+Olha, você recebeu seu pagamento, pronto, acabou.
+
+100
+00:05:41,399 --> 00:05:43,760
+Isso não é assim, Suna Hanım?
+
+101
+00:05:43,799 --> 00:05:46,079
+Nós ainda vamos nos ver muito.
+
+102
+00:05:46,119 --> 00:05:51,119
+Até que Abidin descubra que você é um Korhan...
+
+103
+00:05:51,160 --> 00:05:53,480
+...eu vou fazer você trabalhar mais duro.
+
+104
+00:05:54,799 --> 00:06:00,799
+Cuide-se.
+
+105
+00:06:25,799 --> 00:06:31,799
+Ou Fettah ou Allah.
+
+106
+00:06:31,839 --> 00:06:35,839
+Abidin...
+
+107
+00:06:35,880 --> 00:06:39,880
+...é um Korhan?
+
+108
+00:06:39,920 --> 00:06:43,920
+Abo.
+
+109
+00:06:43,959 --> 00:06:49,959
+Bomba.
+
+110
+00:06:54,799 --> 00:07:00,799
+Ferit irmão.
+
+111
+00:07:10,799 --> 00:07:12,799
+O que aconteceu aqui, o que aconteceu?
+
+112
+00:07:12,839 --> 00:07:13,839
+O que você fez desta vez?
+
+113
+00:07:13,880 --> 00:07:15,880
+O que você fez, bagunçou tudo.
+
+114
+00:07:15,920 --> 00:07:20,920
+Você ainda me deixa angustiado, Memo.
+
+115
+00:07:20,959 --> 00:07:23,959
+Acabou.
+
+116
+00:07:24,119 --> 00:07:26,119
+Eu perdi.
+
+117
+00:07:26,160 --> 00:07:28,160
+Desenhe.
+
+118
+00:07:28,200 --> 00:07:29,200
+Se você desenhar, funciona.
+
+119
+00:07:29,239 --> 00:07:30,239
+Se você desenhar, será bom.
+
+120
+00:07:30,279 --> 00:07:32,279
+Vamos, desenhe.
+
+121
+00:07:32,320 --> 00:07:34,320
+Não consigo desenhar.
+
+122
+00:07:34,359 --> 00:07:36,359
+Não dá.
+
+123
+00:07:36,399 --> 00:07:38,399
+Está ruim.
+
+124
+00:07:38,440 --> 00:07:39,440
+Vai dar certo.
+
+125
+00:07:39,480 --> 00:07:41,480
+Vai dar certo.
+
+126
+00:07:41,519 --> 00:07:45,519
+Não deu certo.
+
+127
+00:07:45,559 --> 00:07:47,559
+Não deu certo.
+
+128
+00:07:47,600 --> 00:07:49,600
+Não deu certo, isso não deu certo.
+
+129
+00:07:49,640 --> 00:07:51,640
+Não deu certo, não deu certo, isso não deu certo.
+
+130
+00:07:52,640 --> 00:07:54,640
+Deixa eu ir.
+
+131
+00:07:54,679 --> 00:07:56,679
+Estamos ferrados, Memo.
+
+132
+00:07:56,720 --> 00:07:58,720
+Estamos ferrados.
+
+133
+00:07:58,760 --> 00:08:00,760
+Eu afundei os Korhans.
+
+134
+00:08:00,799 --> 00:08:02,799
+Não tem problema.
+
+135
+00:08:02,839 --> 00:08:04,839
+Meu salário está garantido.
+
+136
+00:08:04,880 --> 00:08:06,880
+Vou te dar meu salário.
+
+137
+00:08:06,920 --> 00:08:08,920
+Vai dar certo, juro.
+
+138
+00:08:08,959 --> 00:08:10,959
+Eu também vou fazer de tudo para te dar meu salário.
+
+139
+00:08:11,000 --> 00:08:13,000
+Vamos viver tranquilos, Memo.
+
+140
+00:08:13,040 --> 00:08:17,040
+Ok.
+
+141
+00:08:17,880 --> 00:08:19,880
+Diyar.
+
+142
+00:08:19,920 --> 00:08:21,920
+Você chegou.
+
+143
+00:08:21,959 --> 00:08:23,959
+A irmã Diyar chegou.
+
+144
+00:08:24,000 --> 00:08:26,000
+A irmã Diyar chegou.
+
+145
+00:08:26,040 --> 00:08:28,040
+Faça chá.
+
+146
+00:08:28,079 --> 00:08:30,079
+Faça chá, Memo, faça chá.
+
+147
+00:08:30,119 --> 00:08:32,119
+Faça chá.
+
+148
+00:08:32,159 --> 00:08:34,159
+Certo.
+
+149
+00:08:34,200 --> 00:08:36,200
+Eu cheguei.
+
+150
+00:08:36,239 --> 00:08:38,239
+Eu também cheguei.
+
+151
+00:08:38,280 --> 00:08:40,280
+Eu também cheguei.
+
+152
+00:08:40,320 --> 00:08:42,320
+Eu também cheguei.
+
+153
+00:08:42,359 --> 00:08:44,359
+Eu também cheguei.
+
+154
+00:08:44,400 --> 00:08:46,400
+Eu também cheguei.
+
+155
+00:08:46,400 --> 00:08:48,400
+Eu também cheguei.
+
+156
+00:09:07,440 --> 00:09:09,440
+Na porta, Abidin deixou.
+
+157
+00:09:09,479 --> 00:09:11,479
+Para eu te dar.
+
+158
+00:09:11,520 --> 00:09:13,520
+O que é isso?
+
+159
+00:09:13,559 --> 00:09:15,559
+Não sei.
+
+160
+00:09:15,559 --> 00:09:17,719
+Dá uma olhada.
+
+161
+00:09:45,559 --> 00:09:47,559
+Legenda M.K.
+```

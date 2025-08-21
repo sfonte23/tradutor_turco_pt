@@ -1,0 +1,711 @@
+Claro! Aqui está a tradução para o português mantendo o formato SRT:
+
+```
+1
+00:00:01,000 --> 00:00:02,000
+Ayla?
+
+2
+00:00:05,200 --> 00:00:06,900
+O que são esses resultados tão estranhos?
+
+3
+00:00:07,300 --> 00:00:09,000
+Tio, não são reais.
+
+4
+00:00:09,200 --> 00:00:11,400
+Mamãe está jogando um jogo para manter meu irmão em casa.
+
+5
+00:00:12,400 --> 00:00:13,300
+Sim.
+
+6
+00:00:14,600 --> 00:00:16,400
+Se não estiver tão ruim...
+
+7
+00:00:16,900 --> 00:00:18,000
+...você com Gülgün...
+
+8
+00:00:18,200 --> 00:00:19,400
+...você com Ferit...
+
+9
+00:00:20,200 --> 00:00:22,500
+...e se eu puder mantê-los em casa...
+
+10
+00:00:22,700 --> 00:00:24,600
+...nós nos livramos desse problema.
+
+11
+00:00:24,900 --> 00:00:26,900
+Estamos em uma situação bem complicada.
+
+12
+00:00:27,100 --> 00:00:29,600
+Bem, o que a família diz é importante, mas...
+
+13
+00:00:29,700 --> 00:00:30,600
+...o que está acontecendo com você?
+
+14
+00:00:30,700 --> 00:00:32,500
+Por que você está ajudando, hein, menininho?
+
+15
+00:00:33,500 --> 00:00:34,299
+Tio...
+
+16
+00:00:34,400 --> 00:00:36,299
+...estou com vocês nesta casa há dois anos.
+
+17
+00:00:36,700 --> 00:00:39,299
+Com ou sem jogo, eu quero meu irmão.
+
+18
+00:00:39,400 --> 00:00:40,200
+Ah.
+
+19
+00:00:43,099 --> 00:00:43,900
+Mãe...
+
+20
+00:00:44,900 --> 00:00:46,400
+...como você está? Os resultados chegaram?
+
+21
+00:00:46,799 --> 00:00:49,400
+Sim, sim, os resultados chegaram, Sinan, mas...
+
+22
+00:00:50,200 --> 00:00:51,700
+...sua mãe nos assustou um pouco.
+
+23
+00:00:52,599 --> 00:00:53,900
+Meu Deus.
+
+24
+00:00:57,799 --> 00:00:58,700
+O que é isso?
+
+25
+00:00:59,099 --> 00:01:00,599
+Mamãe, isso é muito alto.
+
+26
+00:01:00,700 --> 00:01:02,900
+Sim, sim, infelizmente, infelizmente.
+
+27
+00:01:03,400 --> 00:01:04,400
+Não vá, meu filho.
+
+28
+00:01:04,599 --> 00:01:06,300
+Não vá, não me deixe sozinha.
+
+29
+00:01:07,199 --> 00:01:09,800
+Você vê como estou desde que decidiu ir embora...
+
+30
+00:01:09,900 --> 00:01:11,900
+...está vendo como estou.
+
+31
+00:01:23,400 --> 00:01:24,199
+Tudo bem.
+
+32
+00:01:24,699 --> 00:01:25,699
+Tudo bem, mamãe.
+
+33
+00:01:27,900 --> 00:01:28,699
+Olha...
+
+34
+00:01:28,800 --> 00:01:31,400
+...Seyran nunca aceitaria algo assim.
+
+35
+00:01:31,500 --> 00:01:32,300
+Certo?
+
+36
+00:01:32,400 --> 00:01:35,199
+Mas ainda assim, vou adiar nossa busca por uma casa.
+
+37
+00:01:35,800 --> 00:01:37,599
+Pelo menos até você melhorar.
+
+38
+00:01:38,199 --> 00:01:40,800
+Acho que ela entenderá.
+
+39
+00:01:40,900 --> 00:01:41,900
+Certo, filho.
+
+40
+00:01:45,199 --> 00:01:46,699
+Vou abraçar minha mamãe.
+
+41
+00:01:47,900 --> 00:01:49,000
+Ela é minha mãe.
+
+42
+00:01:50,000 --> 00:01:51,199
+Nada de beijos, tá?
+
+43
+00:01:52,199 --> 00:01:53,199
+Por favor.
+
+44
+00:01:57,500 --> 00:01:58,500
+Sim.
+
+45
+00:01:59,000 --> 00:02:01,699
+Estamos ao lado de uma das áreas mais preciosas do Bósforo.
+
+46
+00:02:01,800 --> 00:02:02,699
+Ah.
+
+47
+00:02:02,800 --> 00:02:04,699
+E você pode ver que é extremamente espaçoso.
+
+48
+00:02:04,800 --> 00:02:06,699
+Então, tenho certeza de que você ficará muito feliz aqui.
+
+49
+00:02:07,199 --> 00:02:08,199
+Aliás...
+
+50
+00:02:08,300 --> 00:02:10,699
+...fiquei muito feliz por vocês se reunirem novamente, Sr. Ferit.
+
+51
+00:02:11,199 --> 00:02:12,199
+Você...
+
+52
+00:02:12,699 --> 00:02:15,199
+...entendeu errado, não estamos juntos.
+
+53
+00:02:17,199 --> 00:02:18,199
+Sim.
+
+54
+00:02:18,199 --> 00:02:20,199
+Você entendeu errado, não estamos juntos.
+
+55
+00:02:21,199 --> 00:02:23,699
+Ela estará aqui com seu novo marido.
+
+56
+00:02:23,800 --> 00:02:26,199
+Vê só, irmão Hüsnü.
+
+57
+00:02:26,300 --> 00:02:28,199
+Olhe como estou civilizado.
+
+58
+00:02:28,300 --> 00:02:30,500
+Estou ajudando minha ex-esposa a procurar uma casa com o novo marido.
+
+59
+00:02:30,899 --> 00:02:33,199
+Daremos uma olhada nisso, irmão Hüsnü. Você vai beijá-la?
+
+60
+00:02:42,500 --> 00:02:44,000
+Quantos andares tem isso?
+
+61
+00:02:44,100 --> 00:02:45,699
+Um, dois.
+
+62
+00:02:45,699 --> 00:02:49,199
+E também, parece que tem um sótão. Isso aqui é como um andar intermediário.
+
+63
+00:02:49,699 --> 00:02:51,199
+O que tem aqui?
+
+64
+00:02:51,699 --> 00:02:55,199
+Um pequeno banheiro. Muito fofo. Tem um quarto aqui.
+
+65
+00:02:56,699 --> 00:02:58,199
+Como é em cima?
+
+66
+00:02:58,699 --> 00:03:00,699
+Lá em cima deve ter uma sala.
+
+67
+00:03:08,699 --> 00:03:11,199
+Ah, que lindo.
+
+68
+00:03:12,699 --> 00:03:14,199
+Olha essa vista.
+
+69
+00:03:15,699 --> 00:03:19,699
+Chamamos esses lugares à beira-mar de "yalı".
+
+70
+00:03:20,199 --> 00:03:22,699
+E quando passa uma estrada na frente, fica "yol yanısı".
+
+71
+00:03:23,699 --> 00:03:25,199
+Mas isso não era engraçado.
+
+72
+00:03:25,699 --> 00:03:29,199
+Como especialista em "yalı", pode me perguntar qualquer coisa, Zehra.
+
+73
+00:03:29,300 --> 00:03:30,699
+Pergunte sem vergonha.
+
+74
+00:03:31,699 --> 00:03:35,699
+Como cresci em um "yalı", posso responder suas perguntas rapidinho.
+
+75
+00:03:36,699 --> 00:03:38,699
+Que sala linda, realmente.
+
+76
+00:03:40,199 --> 00:03:42,199
+Ah, não sei.
+
+77
+00:03:42,199 --> 00:03:46,199
+É uma casa quente, uma casa adorável, pelo que sinto.
+
+78
+00:03:46,699 --> 00:03:49,199
+Vou colocar um sofá aqui. Deve ter uma cozinha ali.
+
+79
+00:03:49,300 --> 00:03:51,199
+Uma mesa de jantar aqui.
+
+80
+00:03:55,199 --> 00:03:57,199
+Aqui tem uma coisa interessante.
+
+81
+00:03:58,199 --> 00:03:59,199
+Uau.
+
+82
+00:04:01,699 --> 00:04:05,699
+Uma mesa de jantar, mas essa cozinha precisa de algumas reformas.
+
+83
+00:04:05,800 --> 00:04:08,699
+É bem antiga. Podemos fazer isso. Não tem problema.
+
+84
+00:04:09,699 --> 00:04:14,199
+Você espera Halis Ağa aqui na frente dessa coluna. Quando for descer para comer e tal.
+
+85
+00:04:14,699 --> 00:04:16,200
+Halis Ağa, você diz?
+
+86
+00:04:16,700 --> 00:04:19,200
+Ou seja, sempre há um Halis Ağa todo ano.
+
+87
+00:04:19,700 --> 00:04:24,200
+Na verdade, pode ser Kazım também. Afinal, ele também é um "ağa".
+
+88
+00:04:24,700 --> 00:04:28,200
+Na minha nova vida, não há espaço para nenhum dos dois, querido Ferit.
+
+89
+00:04:28,700 --> 00:04:30,200
+Nenhum dos dois estará aqui.
+
+90
+00:04:31,700 --> 00:04:35,200
+Para vocês, este lugar é uma casa bem grande.
+
+91
+00:04:35,700 --> 00:04:37,200
+E Mesut também vai morar aqui?
+
+92
+00:04:37,700 --> 00:04:38,700
+Não.
+
+93
+00:04:41,200 --> 00:04:45,700
+Quero ter filhos, Ferit. Pelo menos dois.
+
+94
+00:04:48,200 --> 00:04:52,700
+Quero ter um filho do Ferit. E que seja um menino.
+
+95
+00:04:53,200 --> 00:04:54,700
+Orei muito por isso.
+
+96
+00:04:58,200 --> 00:05:05,700
+Este lugar é de um tamanho bom para três ou cinco crianças. Combina com você.
+
+97
+00:05:06,700 --> 00:05:10,200
+Você pode criá-los a vida toda, correr atrás deles e tal.
+
+98
+00:05:10,700 --> 00:05:12,200
+Como todas as mulheres fazem.
+
+99
+00:05:12,700 --> 00:05:16,200
+Eu sou igual a todas as outras mulheres, Ferit. Qual é o problema?
+
+100
+00:05:16,700 --> 00:05:18,200
+Acho que você não é.
+
+101
+00:05:19,700 --> 00:05:21,200
+Você é mais especial.
+
+102
+00:05:21,700 --> 00:05:25,200
+Você tem talento e tal, mas se não consegue ver isso, claro.
+
+103
+00:05:25,700 --> 00:05:27,200
+Não posso fazer nada.
+
+104
+00:05:32,700 --> 00:05:35,200
+Este lugar deve ser um quarto de hobbies.
+
+105
+00:05:35,700 --> 00:05:36,200
+Que quarto?
+
+106
+00:05:36,700 --> 00:05:37,200
+Hobby.
+
+107
+00:05:37,700 --> 00:05:39,200
+Você pode colocar aqui na frente.
+
+108
+00:05:39,700 --> 00:05:44,200
+Hobby, para dizer que é para um propósito bom. Afinal, você já se acostumou.
+
+109
+00:05:44,700 --> 00:05:46,200
+Não, Ferit.
+
+110
+00:05:50,700 --> 00:05:55,200
+Este deve ser seu ateliê.
+
+111
+00:05:57,700 --> 00:06:01,200
+Posso te dizer? Eu pintaria lindos quadros com essa vista.
+
+112
+00:06:02,200 --> 00:06:04,700
+Por "pintura", você quis dizer "desenho", certo?
+
+113
+00:06:05,200 --> 00:06:08,700
+Este lugar parece mais adequado para criar projetos de design.
+
+114
+00:06:09,200 --> 00:06:09,700
+Seher, o que você acha?
+
+115
+00:06:10,200 --> 00:06:11,700
+É muito bonito.
+
+116
+00:06:12,200 --> 00:06:13,700
+E aí? Gostou?
+
+117
+00:06:14,200 --> 00:06:16,700
+Eu adorei. É uma casa muito bonita.
+
+118
+00:06:17,200 --> 00:06:21,700
+E a energia, quanto custa o aluguel aqui, Sr. Hüsnü?
+
+119
+00:06:22,200 --> 00:06:24,700
+Olha, você quer trabalhar conosco. Um motivo a mais.
+
+120
+00:06:25,200 --> 00:06:29,700
+Ferit, estou pensando, que tal aumentarmos o aluguel?
+
+121
+00:06:29,700 --> 00:06:32,200
+Assim, o problema desaparece.
+
+122
+00:06:32,700 --> 00:06:38,200
+Olha, Sra. Seher, se continuarmos assim, não vou conseguir te pagar aluguel nenhum.
+
+123
+00:06:38,700 --> 00:06:41,200
+Olha, você quer trabalhar conosco, aqui está mais um motivo.
+
+124
+00:06:41,700 --> 00:06:44,200
+Sr. Hüsnü, agora o "yalı" do Ferit também é meu.
+
+125
+00:06:44,700 --> 00:06:48,200
+Então, estou pensando em que talvez eu esteja pagando pouco aluguel. Que tal um aumento? O que acha?
+
+126
+00:06:48,700 --> 00:06:53,200
+Oh, veja isso, Hüsnü. Este "yalı" é seu, este "yalı" é meu.
+
+127
+00:06:53,700 --> 00:06:55,200
+Tem algo assim? Tente ganhar seu pão duro.
+
+128
+00:06:55,200 --> 00:06:57,700
+Ganhar duro? Menina, faça design e ganhe dinheiro.
+
+129
+00:06:58,200 --> 00:07:00,700
+Dizer que essa casa não aguenta é uma besteira.
+
+130
+00:07:02,200 --> 00:07:03,700
+Honestamente, eu adorei aqui.
+
+131
+00:07:04,200 --> 00:07:05,700
+Na verdade, não quero esperar muito.
+
+132
+00:07:06,200 --> 00:07:09,700
+Porque as casas estão desaparecendo rapidamente. Vocês conhecem o assunto.
+
+133
+00:07:10,200 --> 00:07:14,700
+Me senti bem dentro dela. Uma casa quente e adorável.
+
+134
+00:07:15,200 --> 00:07:19,700
+Não sei, mas sim, eu estou decidida a ficar com esta casa.
+
+135
+00:07:20,200 --> 00:07:20,700
+Ótimo.
+
+136
+00:07:21,200 --> 00:07:22,700
+Estou decidida. Vamos fazer assim.
+
+137
+00:07:23,700 --> 00:07:25,200
+Agora você entra em contato com minha esposa.
+
+138
+00:07:25,700 --> 00:07:29,200
+Vocês podem resolver o depósito esta semana, espero.
+
+139
+00:07:29,700 --> 00:07:31,200
+Claro, se for conveniente para vocês.
+
+140
+00:07:31,700 --> 00:07:32,200
+Claro, claro, é conveniente.
+
+141
+00:07:32,700 --> 00:07:35,200
+Mas agora, o que a criança vai dizer, não vai dizer que é caro, né, Seyran?
+
+142
+00:07:35,700 --> 00:07:38,200
+Você está louco? Não vai achar caro um lugar tão caro, né, Hüsnü?
+
+143
+00:07:38,700 --> 00:07:41,200
+Se for caro para ela, eu me encarrego, querido Ferit. Sem problemas.
+
+144
+00:07:41,700 --> 00:07:43,200
+Posso encarregar vocês?
+
+145
+00:07:43,700 --> 00:07:45,200
+Deixe estar. Aqui está.
+
+146
+00:07:45,700 --> 00:07:47,200
+Muito obrigado. Tenham um bom dia.
+
+147
+00:07:47,700 --> 00:07:48,200
+Bom dia.
+
+148
+00:07:49,200 --> 00:07:52,700
+Você vê? A mulher chorou e não percebemos.
+
+149
+00:07:53,200 --> 00:07:55,700
+Nós criamos isso com nossas próprias mãos, Hüsnü.
+
+150
+00:07:57,200 --> 00:07:58,700
+Quero a metade do depósito, Hüsnü.
+
+151
+00:08:00,200 --> 00:08:01,700
+Até mais.
+
+152
+00:08:06,200 --> 00:08:06,700
+Seyran.
+
+153
+00:08:07,200 --> 00:08:11,700
+Ferit, muito obrigado. Eu realmente cuido do resto. Tudo bem? Tenha um bom dia.
+
+154
+00:08:12,200 --> 00:08:13,700
+Aonde você vai assim? Poderíamos ter conversado mais.
+
+155
+00:08:13,700 --> 00:08:17,200
+O que vamos fazer, Ferit? Eu pedi sua ajuda.
+
+156
+00:08:17,700 --> 00:08:20,200
+Você ajudou até aqui. Muito obrigada.
+
+157
+00:08:20,700 --> 00:08:24,200
+E você me tornou parte do lugar onde vou viver, mas o que mais podemos fazer?
+
+158
+00:08:24,700 --> 00:08:25,200
+Não vamos fazer nada mais.
+
+159
+00:08:25,700 --> 00:08:27,200
+Já não vamos fazer nada, Ferit. Tudo bem.
+
+160
+00:08:27,700 --> 00:08:29,200
+Obrigada novamente. Tchau.
+
+161
+00:08:36,700 --> 00:08:39,200
+Os táxis chegam bem na hora, hein.
+
+162
+00:08:43,700 --> 00:08:44,200
+Ferit.
+
+163
+00:09:04,700 --> 00:09:06,200
+Sim, pai, estou chegando.
+
+164
+00:09:06,700 --> 00:09:09,200
+Sente-se, filha. Sente-se.
+
+165
+00:09:11,700 --> 00:09:13,200
+Isso.
+
+166
+00:09:13,700 --> 00:09:15,200
+O que há, filha?
+
+167
+00:09:15,700 --> 00:09:18,200
+Você se acostumou com as esquinas dos parques, hein?
+
+168
+00:09:18,700 --> 00:09:21,200
+Que trabalho temos nós no parque? Você está envergonhada do pai?
+
+169
+00:09:21,700 --> 00:09:24,200
+Pai, chega de falar de parque.
+
+170
+00:09:24,700 --> 00:09:27,200
+O que você quer saber? Pergunte.
+
+171
+00:09:27,700 --> 00:09:30,200
+Deixe de lado o parque, menina.
+
+172
+00:09:31,700 --> 00:09:33,200
+É Korhan, realmente?
+
+173
+00:09:38,700 --> 00:09:40,200
+Sim.
+
+174
+00:09:44,700 --> 00:09:47,200
+Conte, conte. O que aconteceu?
+
+175
+00:09:47,700 --> 00:09:50,200
+Dissemos que o motorista era o noivo, e Korhan apareceu, conte.
+
+176
+00:09:52,700 --> 00:09:54,200
+Abidin.
+
+177
+00:09:56,700 --> 00:09:59,200
+É o sobrinho legítimo de Halis Han.
+```

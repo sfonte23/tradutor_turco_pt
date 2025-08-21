@@ -1,0 +1,884 @@
+1692
+01:40:00,000 --> 01:40:03,080
+Vamos lá. Que mundo é esse então?
+
+1693
+01:40:04,160 --> 01:40:06,320
+Com certeza é diferente do seu mundo.
+
+1694
+01:40:09,480 --> 01:40:10,480
+Meu querido Ferit.
+
+1695
+01:40:13,920 --> 01:40:16,120
+Vamos. A mesa de pingue-pongue está livre.
+
+1696
+01:40:17,640 --> 01:40:19,120
+Íamos jogar pingue-pongue, meu bem?
+
+1697
+01:40:19,200 --> 01:40:20,560
+Ah, mas você prometeu.
+
+1698
+01:40:22,400 --> 01:40:23,400
+Boa diversão.
+
+1699
+01:40:24,480 --> 01:40:25,480
+Vamos.
+
+1700
+01:40:25,560 --> 01:40:27,880
+Divirta-se, meu querido Ferit.
+
+1701
+01:40:30,040 --> 01:40:31,040
+Vamos, vamos.
+
+1702
+01:40:33,800 --> 01:40:35,520
+Sou mesmo o seu querido Ferit?
+
+1703
+01:40:37,600 --> 01:40:40,200
+Amanhã eu volto. Mesma cadeira.
+
+1704
+01:40:41,120 --> 01:40:43,120
+Não se esqueça, guarde meu lugar. Tá bom?
+
+1705
+01:40:45,600 --> 01:40:46,600
+Tchau então.
+
+1706
+01:41:01,000 --> 01:41:04,920
+Ferit. Faz tempo que você não aparecia. Voltou de novo?
+
+1707
+01:41:05,000 --> 01:41:06,000
+Isso mesmo.
+
+1708
+01:41:06,080 --> 01:41:08,240
+Vamos jogar vôlei daqui a pouco. Vem?
+
+1709
+01:41:08,320 --> 01:41:10,080
+Não, deixa pra mim. Obrigado.
+
+1710
+01:41:10,160 --> 01:41:11,520
+Então a gente se vê.
+
+1711
+01:41:19,920 --> 01:41:21,120
+Vou te falar uma coisa.
+
+1712
+01:41:21,200 --> 01:41:25,920
+Esqueci minha carteira em casa, me paga um suco de laranja?
+
+1713
+01:41:26,000 --> 01:41:27,000
+Claro.
+
+1714
+01:41:27,040 --> 01:41:28,240
+Me dá mais um também?
+
+1715
+01:41:29,640 --> 01:41:30,640
+Hazal.
+
+1716
+01:41:32,640 --> 01:41:34,040
+Esqueceu tão rápido?
+
+1717
+01:41:34,120 --> 01:41:36,560
+Minha memória pra nomes é meio ruim. Desculpa.
+
+1718
+01:41:38,640 --> 01:41:39,840
+Claro, você fala isso...
+
+1719
+01:41:39,920 --> 01:41:43,320
+Aí as garotas se esforçam mais pra você não esquecer o nome.
+
+1720
+01:41:43,400 --> 01:41:45,200
+Boa tática, Ferit Korhan.
+
+1721
+01:41:45,760 --> 01:41:46,760
+Bom apetite.
+
+1722
+01:41:52,120 --> 01:41:53,120
+Vou te falar uma coisa.
+
+1723
+01:41:53,720 --> 01:41:56,840
+Me diz, por que você está sendo frio comigo?
+
+1724
+01:41:56,920 --> 01:41:58,640
+Eu que casei com a sua ex-esposa?
+
+1725
+01:42:01,360 --> 01:42:02,360
+Desculpe pelo erro.
+
+1726
+01:42:03,400 --> 01:42:06,640
+Nossa, que tranquilidade.
+
+1727
+01:42:06,720 --> 01:42:10,400
+Olha só a cavalheirice.
+
+1728
+01:42:10,480 --> 01:42:12,400
+Parabéns pra você, Ferit Korhan.
+
+1729
+01:42:13,280 --> 01:42:14,280
+Qual é a sua?
+
+1730
+01:42:14,360 --> 01:42:15,360
+Como assim?
+
+1731
+01:42:16,800 --> 01:42:19,040
+Você tem algum problema, mas não entendi bem.
+
+1732
+01:42:19,120 --> 01:42:20,600
+Não, que problema?
+
+1733
+01:42:20,600 --> 01:42:21,600
+Só isso.
+
+1734
+01:42:21,680 --> 01:42:24,519
+Mas já que estamos conversando...
+
+1735
+01:42:26,079 --> 01:42:27,079
+Vou te perguntar algo.
+
+1736
+01:42:28,840 --> 01:42:30,680
+Quanto tempo a Seyran te fez esperar?
+
+1737
+01:42:31,240 --> 01:42:32,240
+Esperar o quê?
+
+1738
+01:42:32,799 --> 01:42:35,799
+Não me faça dizer. Você entende.
+
+1739
+01:42:36,680 --> 01:42:38,920
+Aqueles assuntos que você domina.
+
+1740
+01:42:39,799 --> 01:42:41,600
+Estou falando de ficarem juntos.
+
+1741
+01:42:41,680 --> 01:42:45,040
+Fiquei pensando se a Seyran é assim só com meu irmão.
+
+1742
+01:42:45,079 --> 01:42:46,959
+Por que você faz essas perguntas ridículas?
+
+1743
+01:42:47,040 --> 01:42:49,640
+O que eu posso fazer? Ouvi eles conversando assim.
+
+1744
+01:42:49,720 --> 01:42:52,720
+Achei estranho. Todo esse tempo e nunca ficaram juntos.
+
+1745
+01:42:59,519 --> 01:43:00,840
+Pensei: nossa, sério?
+
+1746
+01:43:00,920 --> 01:43:03,720
+Será que o problema é com meu irmão?
+
+1747
+01:43:06,040 --> 01:43:07,040
+O problema é você.
+
+1748
+01:43:07,120 --> 01:43:08,120
+O problema é você.
+
+1749
+01:43:08,200 --> 01:43:09,200
+O problema é você.
+
+1750
+01:43:09,280 --> 01:43:10,280
+O problema é você.
+
+1751
+01:43:10,359 --> 01:43:11,359
+O problema é você.
+
+1752
+01:43:11,440 --> 01:43:12,440
+O problema é você.
+
+1753
+01:43:13,440 --> 01:43:14,440
+O problema é você.
+
+1754
+01:43:16,200 --> 01:43:17,200
+É isso que você acha?
+
+1755
+01:43:19,040 --> 01:43:21,440
+Bom, então não vou ter essa resposta.
+
+1756
+01:43:22,760 --> 01:43:24,560
+E a Seyran, é chata?
+
+1757
+01:43:24,640 --> 01:43:27,520
+Quer dizer, você acha que ela enjoa morando na mesma casa?
+
+1758
+01:43:27,600 --> 01:43:28,600
+Mesma casa.
+
+1759
+01:43:29,840 --> 01:43:33,040
+Digo, como eles se mudaram, agora vão ficar lá.
+
+1760
+01:43:36,960 --> 01:43:37,960
+Tchau então.
+
+1761
+01:43:42,440 --> 01:43:43,440
+Vem, vem.
+
+1762
+01:43:44,200 --> 01:43:45,680
+Rápido.
+
+1763
+01:43:47,920 --> 01:43:49,400
+Rápido, rápido, rápido.
+
+1764
+01:43:49,480 --> 01:43:50,480
+Vem deitar aqui.
+
+1765
+01:44:01,960 --> 01:44:02,960
+Vamos.
+
+1766
+01:44:02,960 --> 01:44:03,960
+Vem, vem.
+
+1767
+01:44:04,960 --> 01:44:06,960
+Rápido, rápido, rápido.
+
+1768
+01:44:08,960 --> 01:44:09,960
+Rápido, rápido, rápido.
+
+1769
+01:44:10,960 --> 01:44:11,960
+Vem deitar aqui, deita.
+
+1770
+01:44:14,960 --> 01:44:15,960
+Cobre, cobre, cobre.
+
+1771
+01:44:15,960 --> 01:44:16,960
+Meu amor, vou te comer de tanto carinho.
+
+1772
+01:44:17,960 --> 01:44:18,960
+Vem cá, vem.
+
+1773
+01:44:19,960 --> 01:44:20,960
+Agora não consigo mais dormir sem você.
+
+1774
+01:44:20,960 --> 01:44:21,960
+O que você fez?
+
+1775
+01:44:21,960 --> 01:44:22,960
+Ei, para com as mãos.
+
+1776
+01:44:23,960 --> 01:44:24,960
+Foi só uma vez, aquela vez.
+
+1777
+01:44:24,960 --> 01:44:26,960
+Não vai ter de novo, entendeu?
+
+1778
+01:44:26,960 --> 01:44:27,960
+Como assim, não de novo?
+
+1779
+01:44:27,960 --> 01:44:28,960
+Mãe?
+
+1780
+01:44:28,960 --> 01:44:29,960
+Pai?
+
+1781
+01:44:29,960 --> 01:44:30,960
+Pai?
+
+1782
+01:44:32,960 --> 01:44:33,960
+Suna.
+
+1783
+01:44:34,960 --> 01:44:35,960
+Bom dia, minha filha.
+
+1784
+01:44:35,960 --> 01:44:37,960
+Bom dia, bom dia.
+
+1785
+01:44:38,960 --> 01:44:40,960
+Pai, você está cedo.
+
+1786
+01:44:41,960 --> 01:44:43,960
+Bom dia, minha linda filha, bom dia pra você.
+
+1787
+01:44:44,960 --> 01:44:46,960
+Pergunta pelo menos se eu dormi.
+
+1788
+01:44:47,960 --> 01:44:49,960
+Claro, o sofá é desconfortável.
+
+1789
+01:44:49,960 --> 01:44:51,960
+Não, não, até que não foi ruim.
+
+1790
+01:44:51,960 --> 01:44:55,960
+Assim, de ladinho, de comprido, virando pro lado.
+
+1791
+01:44:55,960 --> 01:44:57,960
+Dormimos super bem, não foi?
+
+1792
+01:45:00,960 --> 01:45:02,960
+Mãe, sua tia está ligando para você.
+
+1793
+01:45:02,960 --> 01:45:03,960
+Ah.
+
+1794
+01:45:03,960 --> 01:45:04,960
+A tia está bem.
+
+1795
+01:45:07,960 --> 01:45:09,960
+Bom dia, tia.
+
+1796
+01:45:09,960 --> 01:45:10,960
+Deixa de bom dia agora.
+
+1797
+01:45:11,960 --> 01:45:14,960
+A Seheran começou a trabalhar com o Ferit, lá nos Korkan.
+
+1798
+01:45:14,960 --> 01:45:15,960
+Você sabia?
+
+1799
+01:45:15,960 --> 01:45:16,960
+O quê?
+
+1800
+01:45:16,960 --> 01:45:17,960
+O que aconteceu?
+
+1801
+01:45:18,960 --> 01:45:21,960
+A Seheran começou a trabalhar com o Ferit.
+
+1802
+01:45:21,960 --> 01:45:23,960
+Ah, não acredito.
+
+1803
+01:45:23,960 --> 01:45:24,960
+Tô vendo que isso não vai acabar bem.
+
+1804
+01:45:24,960 --> 01:45:26,960
+Um dia de paz, por favor, Deus.
+
+1805
+01:45:26,960 --> 01:45:27,960
+Meu Deus do céu.
+
+1806
+01:45:27,960 --> 01:45:28,960
+Tá bom, tia.
+
+1807
+01:45:28,960 --> 01:45:29,960
+Sim.
+
+1808
+01:45:29,960 --> 01:45:30,960
+Tá, um pouco mais pra cima.
+
+1809
+01:45:30,960 --> 01:45:31,960
+Assim.
+
+1810
+01:45:31,960 --> 01:45:32,960
+Isso.
+
+1811
+01:45:32,960 --> 01:45:33,960
+Ficou bom?
+
+1812
+01:45:33,960 --> 01:45:34,960
+Ficou ótimo.
+
+1813
+01:45:34,960 --> 01:45:36,960
+Ficou lindo aqui, combinou muito.
+
+1814
+01:45:36,960 --> 01:45:38,960
+Você é muito gentil, deve ser valioso.
+
+1815
+01:45:38,960 --> 01:45:42,960
+Eu penso mais que um quadro sempre embeleza a casa.
+
+1816
+01:45:42,960 --> 01:45:44,960
+Por isso não quis vir de mãos vazias.
+
+1817
+01:45:45,960 --> 01:45:47,960
+Muito obrigada de novo, você é muito gentil.
+
+1818
+01:45:47,960 --> 01:45:49,960
+E ainda te fiz vir até aqui.
+
+1819
+01:45:49,960 --> 01:45:52,960
+E penso que deixa qualquer lugar mais bonito.
+
+1820
+01:45:52,960 --> 01:45:54,960
+Muito obrigada de novo, você é muito gentil.
+
+1821
+01:45:54,960 --> 01:45:56,960
+E ainda te fiz vir até aqui.
+
+1822
+01:45:56,960 --> 01:45:58,960
+Veio com as mãos cheias.
+
+1823
+01:45:58,960 --> 01:46:00,960
+Que nada, foi um prazer.
+
+1824
+01:46:00,960 --> 01:46:06,960
+Senhor Mümtaz, como sabe, não faz muito tempo que me divorciei.
+
+1825
+01:46:06,960 --> 01:46:08,960
+Meu ex-marido vai se casar.
+
+1826
+01:46:08,960 --> 01:46:12,960
+Mesmo meu filho sendo compreensivo, ele está chateado com o pai.
+
+1827
+01:46:12,960 --> 01:46:17,960
+Agora, se a imprensa nos ver juntos em algum lugar...
+
+1828
+01:46:17,960 --> 01:46:19,960
+Eu entendo, entendo.
+
+1829
+01:46:19,960 --> 01:46:20,960
+Você tem razão.
+
+1830
+01:46:20,960 --> 01:46:24,960
+Se nossa amizade precisa ficar em segredo, que fique.
+
+1831
+01:46:26,960 --> 01:46:29,960
+Já faz tempo que não fazia nada escondido.
+
+1832
+01:46:29,960 --> 01:46:31,960
+Até gostei da ideia.
+
+1833
+01:46:34,960 --> 01:46:35,960
+Não esperava ninguém.
+
+1834
+01:46:39,960 --> 01:46:40,960
+Mãe.
+
+1835
+01:46:41,960 --> 01:46:43,960
+Ferit, Ferit.
+
+1836
+01:46:43,960 --> 01:46:44,960
+Meu filho.
+
+1837
+01:46:46,960 --> 01:46:47,960
+Meu filho.
+
+1838
+01:46:47,960 --> 01:46:48,960
+Mãe.
+
+1839
+01:46:48,960 --> 01:46:53,960
+Posso pedir para te hospedar por um instante no quarto de baixo?
+
+1840
+01:46:54,960 --> 01:46:56,960
+Ele vai começar a fazer perguntas.
+
+1841
+01:46:57,960 --> 01:46:59,960
+Tudo bem, tudo bem.
+
+1842
+01:46:59,960 --> 01:47:00,960
+Muito obrigada.
+
+1843
+01:47:01,960 --> 01:47:02,960
+Mãe, abre isso.
+
+1844
+01:47:04,960 --> 01:47:06,960
+Calma, Saden.
+
+1845
+01:47:06,960 --> 01:47:07,960
+Tá bom.
+
+1846
+01:47:07,960 --> 01:47:08,960
+Obrigada.
+
+1847
+01:47:08,960 --> 01:47:09,960
+Desce.
+
+1848
+01:47:09,960 --> 01:47:10,960
+Logo ali embaixo.
+
+1849
+01:47:10,960 --> 01:47:12,960
+Pode entrar no quarto ali.
+
+1850
+01:47:13,960 --> 01:47:14,960
+Mãe.
+
+1851
+01:47:18,960 --> 01:47:19,960
+Ah.
+
+1852
+01:47:19,960 --> 01:47:20,960
+Bem-vindo.
+
+1853
+01:47:20,960 --> 01:47:22,960
+Por que não abriu a porta, mãe?
+
+1854
+01:47:22,960 --> 01:47:23,960
+A casa é grande, filho.
+
+1855
+01:47:23,960 --> 01:47:24,960
+Eu estava voltando.
+
+1856
+01:47:25,960 --> 01:47:26,960
+Eu estava no jardim.
+
+1857
+01:47:27,960 --> 01:47:29,960
+O que houve? Você está mal de novo.
+
+1858
+01:47:29,960 --> 01:47:31,960
+A conversa com ela não foi boa?
+
+1859
+01:47:34,960 --> 01:47:35,960
+Foi, deixa pra lá.
+
+1860
+01:47:36,960 --> 01:47:39,960
+E qual é o problema dela? Conseguiu ouvir?
+
+1861
+01:47:39,960 --> 01:47:41,960
+Como você disse.
+
+1862
+01:47:41,960 --> 01:47:43,960
+Ela quer se casar.
+
+1863
+01:47:45,960 --> 01:47:46,960
+Normal.
+
+1864
+01:47:47,960 --> 01:47:51,960
+Na idade dela, não quer perder tempo.
+
+1865
+01:47:52,960 --> 01:47:56,960
+Mas por que terminar com você assim de repente?
+
+1866
+01:47:58,960 --> 01:47:59,960
+O avô dela veio.
+
+1867
+01:48:00,960 --> 01:48:01,960
+Ah.
+
+1868
+01:48:03,960 --> 01:48:05,960
+Direto de Haifa.
+
+1869
+01:48:06,960 --> 01:48:07,960
+E?
+
+1870
+01:48:07,960 --> 01:48:09,960
+O avô disse para ela terminar.
+
+1871
+01:48:09,960 --> 01:48:11,960
+Ela não quis.
+
+1872
+01:48:11,960 --> 01:48:13,960
+Então ele disse: "Então vão se casar".
+
+1873
+01:48:13,960 --> 01:48:15,960
+E ela veio e terminou comigo.
+
+1874
+01:48:15,960 --> 01:48:16,960
+Ficou com medo, claro.
+
+1875
+01:48:16,960 --> 01:48:18,960
+Mas por que medo, mãe?
+
+1876
+01:48:18,960 --> 01:48:21,960
+Se ela me falasse, poderíamos achar uma solução juntos.
+
+1877
+01:48:22,960 --> 01:48:23,960
+Você não entende, né?
+
+1878
+01:48:23,960 --> 01:48:25,960
+Você não entende nada de mulheres.
+
+1879
+01:48:25,960 --> 01:48:26,960
+Eu não entendo de mulheres?
+
+1880
+01:48:26,960 --> 01:48:27,960
+Entende?
+
+1881
+01:48:28,960 --> 01:48:29,960
+Não entende.
+
+1882
+01:48:29,960 --> 01:48:33,960
+Essa garota queria que você a quisesse como ela te quer.
+
+1883
+01:48:34,960 --> 01:48:35,960
+E quando viu que não ia acontecer...
+
+1884
+01:48:35,960 --> 01:48:38,960
+Mãe, não era assim com a Adihan.
+
+1885
+01:48:38,960 --> 01:48:40,960
+A gente estava bem, tranquilo.
+
+1886
+01:48:40,960 --> 01:48:43,960
+Se o avô não tivesse vindo, estaríamos jantando e rindo agora.
+
+1887
+01:48:43,960 --> 01:48:48,960
+Talvez ela estivesse esperando que um dia você quisesse.
+
+1888
+01:48:50,960 --> 01:48:52,960
+Então você a ama.
+
+1889
+01:48:58,960 --> 01:49:00,960
+Não consigo imaginar minha vida sem ela, mãe.
+
+1890
+01:49:03,960 --> 01:49:06,960
+Então por que não foi pedir a mão dela?
+
+1891
+01:49:08,960 --> 01:49:09,960
+O que está te impedindo?
+
+1892
+01:49:09,960 --> 01:49:10,960
+Seyran?
+
+1893
+01:49:10,960 --> 01:49:11,960
+O que te impede?
+
+1894
+01:49:11,960 --> 01:49:14,960
+É a Seyran, por acaso?
+
+1895
+01:49:15,960 --> 01:49:16,960
+Não sei, mãe.
+
+1896
+01:49:16,960 --> 01:49:17,960
+Não quero me casar de novo.
+
+1897
+01:49:18,960 --> 01:49:19,960
+Já me casei o suficiente.
+
+1898
+01:49:19,960 --> 01:49:20,960
+E a Seyran...
+
+1899
+01:49:26,960 --> 01:49:27,960
+Eu vou embora.
+
+1900
+01:49:28,960 --> 01:49:29,960
+O que vai fazer?
+
+1901
+01:49:31,960 --> 01:49:32,960
+Vou para o ateliê.
+
+1902
+01:49:32,960 --> 01:49:34,960
+Tenho um trabalho que não posso adiar.
+
+1903
+01:49:35,960 --> 01:49:37,960
+Depois vou falar com Diyar.
+
+1904
+01:49:37,960 --> 01:49:39,960
+Mas desta vez vou falar sem me atrapalhar.
+
+1905
+01:49:39,960 --> 01:49:40,960
+Já somos adultos.
+
+1906
+01:49:40,960 --> 01:49:42,960
+Podemos voltar a ser como antes.
+
+1907
+01:49:44,960 --> 01:49:45,960
+O avô dela está aqui.
+
+1908
+01:49:46,960 --> 01:49:47,960
+Tome cuidado.
+
+1909
+01:49:47,960 --> 01:49:49,960
+Não, parece que ele tem um grande caso na justiça.
+
+1910
+01:49:50,960 --> 01:49:52,960
+Estão trabalhando para ele no hotel do avô.
+
+1911
+01:49:54,960 --> 01:49:55,960
+Enfim.
+
+1912
+01:49:55,960 --> 01:49:57,960
+Obrigada, Sultana Gülgün.
+

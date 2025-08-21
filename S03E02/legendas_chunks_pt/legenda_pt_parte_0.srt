@@ -1,0 +1,575 @@
+Claro! Aqui está a tradução para português mantendo o formato SRT:
+
+```
+1
+00:00:00,000 --> 00:00:06,000
+A descrição desta série foi feita pela Maya Film através da Associação de Descrição em Voz.
+
+2
+00:00:06,000 --> 00:00:10,000
+www.associacaodescricaoemvoz.com
+
+3
+00:00:10,000 --> 00:00:13,000
+Autor do Texto de Descrição em Voz e Narrador
+
+4
+00:00:13,000 --> 00:00:16,000
+Aşık Murat Çağlar Özçelik
+
+5
+00:00:30,000 --> 00:00:33,000
+Autor do Texto de Descrição em Voz e Narrador
+
+6
+00:00:33,000 --> 00:00:36,000
+Aşık Murat Çağlar Özçelik
+
+7
+00:01:00,000 --> 00:01:03,000
+Autor do Texto de Descrição em Voz e Narrador
+
+8
+00:01:03,000 --> 00:01:06,000
+Aşık Murat Çağlar Özçelik
+
+9
+00:01:30,000 --> 00:01:33,000
+Autor do Texto de Descrição em Voz e Narrador
+
+10
+00:01:33,000 --> 00:01:36,000
+Aşık Murat Çağlar Özçelik
+
+11
+00:01:36,000 --> 00:01:39,000
+Autor do Texto de Descrição em Voz e Narrador
+
+12
+00:01:39,000 --> 00:01:42,000
+Aşık Murat Çağlar Özçelik
+
+13
+00:01:42,000 --> 00:01:45,000
+Autor do Texto de Descrição em Voz e Narrador
+
+14
+00:01:45,000 --> 00:01:48,000
+Aşık Murat Çağlar Özçelik
+
+15
+00:01:48,000 --> 00:01:51,000
+Autor do Texto de Descrição em Voz e Narrador
+
+16
+00:01:51,000 --> 00:01:54,000
+Aşık Murat Çağlar Özçelik
+
+17
+00:02:00,000 --> 00:02:03,000
+Autor do Texto de Descrição em Voz e Narrador
+
+18
+00:02:03,000 --> 00:02:06,000
+Aşık Murat Çağlar Özçelik
+
+19
+00:02:06,000 --> 00:02:09,000
+Autor do Texto de Descrição em Voz e Narrador
+
+20
+00:02:09,000 --> 00:02:12,000
+Aşık Murat Çağlar Özçelik
+
+21
+00:02:12,000 --> 00:02:15,000
+Autor do Texto de Descrição em Voz e Narrador
+
+22
+00:02:15,000 --> 00:02:18,000
+Aşık Murat Çağlar Özçelik
+
+23
+00:02:18,000 --> 00:02:21,000
+Autor do Texto de Descrição em Voz e Narrador
+
+24
+00:02:21,000 --> 00:02:24,000
+Aşık Murat Çağlar Özçelik
+
+25
+00:02:24,000 --> 00:02:27,000
+Autor do Texto de Descrição em Voz e Narrador
+
+26
+00:02:27,000 --> 00:02:30,000
+Legendas M.K.
+
+27
+00:02:57,000 --> 00:02:59,000
+Legendas M.K.
+
+28
+00:03:27,000 --> 00:03:29,000
+Legendas M.K.
+
+29
+00:03:57,000 --> 00:03:59,000
+Legendas M.K.
+
+30
+00:04:27,000 --> 00:04:29,000
+Legendas M.K.
+
+31
+00:04:29,000 --> 00:04:31,000
+Legendas M.K.
+
+32
+00:04:36,000 --> 00:04:39,000
+Que não seja o único narrador das histórias de duas pessoas...
+
+33
+00:04:41,000 --> 00:04:42,000
+...e que a razão de nenhuma separação seja uma única pessoa.
+
+34
+00:04:57,000 --> 00:05:04,000
+Suna?
+
+35
+00:05:04,000 --> 00:05:08,000
+Seyran ainda não quer me ver?
+
+36
+00:05:08,000 --> 00:05:11,000
+Eu já sinto muita falta dela, Suna.
+
+37
+00:05:15,000 --> 00:05:16,000
+Estou te ouvindo.
+
+38
+00:05:16,000 --> 00:05:19,000
+Aguarde um pouco mais.
+
+39
+00:05:19,000 --> 00:05:22,000
+Suna, quanto mais eu tenho que esperar?
+
+40
+00:05:22,000 --> 00:05:25,000
+Estou no meu limite, você entende?
+
+41
+00:05:26,000 --> 00:05:27,000
+Preciso vê-la.
+
+42
+00:05:27,000 --> 00:05:28,000
+Por favor, não interfira.
+
+43
+00:05:28,000 --> 00:05:29,000
+Para, por favor.
+
+44
+00:05:29,000 --> 00:05:30,000
+Suna.
+
+45
+00:05:30,000 --> 00:05:31,000
+Para, Ferit, não faça isso.
+
+46
+00:05:31,000 --> 00:05:33,000
+Suna.
+
+47
+00:05:47,000 --> 00:05:48,000
+Quem é Suna?
+
+48
+00:05:51,000 --> 00:05:52,000
+Sinan.
+
+49
+00:05:53,000 --> 00:05:57,000
+Ele mora ao lado do quarto da Seyran.
+
+50
+00:05:57,000 --> 00:05:59,000
+Ele também está doente.
+
+51
+00:06:02,000 --> 00:06:03,000
+Seyran.
+
+52
+00:06:05,000 --> 00:06:06,000
+Seyran está bem.
+
+53
+00:06:08,000 --> 00:06:09,000
+Ela está sorrindo.
+
+54
+00:06:14,000 --> 00:06:15,000
+Ela está maquiada.
+
+55
+00:06:17,000 --> 00:06:18,000
+Ela passou batom.
+
+56
+00:06:22,000 --> 00:06:24,000
+Seyran está sorrindo, Suna.
+
+57
+00:06:27,000 --> 00:06:28,000
+Seyran está sorrindo.
+
+58
+00:06:32,000 --> 00:06:33,000
+Eu a vi assim pela primeira vez.
+
+59
+00:06:35,000 --> 00:06:36,000
+Pela primeira vez.
+
+60
+00:06:41,000 --> 00:06:42,000
+Por que ela não sorri ao meu lado?
+
+61
+00:06:53,000 --> 00:06:55,000
+Ferit, não faça isso com você mesmo.
+
+62
+00:06:56,000 --> 00:06:57,000
+Por que ela não está ao meu lado...
+
+63
+00:06:59,000 --> 00:07:00,000
+...e está sorrindo com esse garoto?
+
+64
+00:07:03,000 --> 00:07:05,000
+Porque eles são parceiros de destino.
+
+65
+00:07:07,000 --> 00:07:08,000
+Eles têm medo da mesma coisa.
+
+66
+00:07:10,000 --> 00:07:11,000
+Estão preocupados com as mesmas coisas.
+
+67
+00:07:13,000 --> 00:07:14,000
+A mesma esperança.
+
+68
+00:07:15,000 --> 00:07:16,000
+A mesma desesperança.
+
+69
+00:07:17,000 --> 00:07:18,000
+Nem você nem eu...
+
+70
+00:07:19,000 --> 00:07:20,000
+...podemos entendê-los.
+
+71
+00:07:23,000 --> 00:07:26,000
+Eles se entendem de uma maneira muito diferente.
+
+72
+00:07:27,000 --> 00:07:28,000
+Como de maneira diferente...
+
+73
+00:07:29,000 --> 00:07:30,000
+...eles conseguem entender, Suna?
+
+74
+00:07:34,000 --> 00:07:35,000
+Você está brincando comigo?
+
+75
+00:07:37,000 --> 00:07:38,000
+Há quanto tempo se conhecem?
+
+76
+00:07:39,000 --> 00:07:41,000
+Quando se viram pela primeira vez, Suna?
+
+77
+00:07:41,000 --> 00:07:43,000
+Seyran me ama mais do que a sua própria vida agora...
+
+78
+00:07:44,000 --> 00:07:45,000
+...e eu me tornei assim para ela?
+
+79
+00:07:46,000 --> 00:07:47,000
+Ferit, não faça isso.
+
+80
+00:07:48,000 --> 00:07:49,000
+Esse não é o ponto.
+
+81
+00:07:49,000 --> 00:07:50,000
+Qual ponto?
+
+82
+00:07:50,000 --> 00:07:51,000
+O ponto é agora...
+
+83
+00:07:52,000 --> 00:07:53,000
+...o que é bom para a Seyran.
+
+84
+00:07:55,000 --> 00:07:56,000
+Está claro que...
+
+85
+00:07:57,000 --> 00:07:58,000
+...Sinan está ajudando.
+
+86
+00:08:01,000 --> 00:08:02,000
+Então eu não estou ajudando?
+
+87
+00:08:05,000 --> 00:08:06,000
+Não foi isso que quis dizer.
+
+88
+00:08:06,000 --> 00:08:07,000
+Suna...
+
+89
+00:08:09,000 --> 00:08:10,000
+...o futuro da Seyran...
+
+90
+00:08:11,000 --> 00:08:12,000
+...todas as suas preocupações...
+
+91
+00:08:13,000 --> 00:08:14,000
+...todo o seu estado de espírito...
+
+92
+00:08:15,000 --> 00:08:16,000
+...tudo...
+
+93
+00:08:17,000 --> 00:08:18,000
+...eu sou...
+
+94
+00:08:19,000 --> 00:08:20,000
+...eu sou eu.
+
+95
+00:08:22,000 --> 00:08:23,000
+Ferit, para, Ferit.
+
+96
+00:08:24,000 --> 00:08:25,000
+Para.
+
+97
+00:08:25,000 --> 00:08:26,000
+Não vá.
+
+98
+00:08:27,000 --> 00:08:28,000
+Ferit.
+
+99
+00:08:29,000 --> 00:08:30,000
+Ferit.
+
+100
+00:08:31,000 --> 00:08:32,000
+Ferit.
+
+101
+00:08:33,000 --> 00:08:34,000
+Ferit.
+
+102
+00:08:34,000 --> 00:08:35,000
+Não vá.
+
+103
+00:08:36,000 --> 00:08:37,000
+O que você acha que vai acontecer se você for?
+
+104
+00:08:38,000 --> 00:08:39,000
+O que vai acontecer?
+
+105
+00:08:40,000 --> 00:08:41,000
+Se Seyran quiser...
+
+106
+00:08:41,000 --> 00:08:42,000
+Suna.
+
+107
+00:08:42,000 --> 00:08:44,000
+...ela não viria correndo até você?
+
+108
+00:08:44,000 --> 00:08:45,000
+Não faça isso.
+
+109
+00:08:45,000 --> 00:08:46,000
+Suna.
+
+110
+00:08:46,000 --> 00:08:47,000
+Estou calmo.
+
+111
+00:08:47,000 --> 00:08:48,000
+Não se preocupe, tudo bem?
+
+112
+00:08:48,000 --> 00:08:49,000
+Eu só quero conversar.
+
+113
+00:08:50,000 --> 00:08:51,000
+Só quero conversar, por favor.
+
+114
+00:08:51,000 --> 00:08:52,000
+Ferit.
+
+115
+00:08:52,000 --> 00:08:53,000
+Ferit, não faça isso.
+
+116
+00:08:53,000 --> 00:08:55,000
+Não vale a pena mais.
+
+117
+00:08:55,000 --> 00:08:58,000
+Não importa o que você diga ou faça, não vale a pena.
+
+118
+00:08:59,000 --> 00:09:01,000
+Como não vale a pena?
+
+119
+00:09:01,000 --> 00:09:02,000
+Como não vale?
+
+120
+00:09:03,000 --> 00:09:04,000
+Eu sou eu.
+
+121
+00:09:05,000 --> 00:09:06,000
+Eu sou Ferit.
+
+122
+00:09:07,000 --> 00:09:09,000
+Seyran não quer me ver agora?
+
+123
+00:09:09,000 --> 00:09:10,000
+Hã?
+
+124
+00:09:12,000 --> 00:09:13,000
+Ela não quer.
+
+125
+00:09:15,000 --> 00:09:16,000
+Olhe para ela.
+
+126
+00:09:18,000 --> 00:09:19,000
+Como ela está feliz.
+
+127
+00:09:21,000 --> 00:09:22,000
+Ela está bem.
+
+128
+00:09:22,000 --> 00:09:23,000
+Ela está satisfeita.
+
+129
+00:09:25,000 --> 00:09:26,000
+Você não pode dar isso a ela.
+
+130
+00:09:28,000 --> 00:09:29,000
+O que isso significa?
+
+131
+00:09:31,000 --> 00:09:32,000
+O garoto à sua frente vai dar isso?
+
+132
+00:09:33,000 --> 00:09:35,000
+Tudo está melhorando, Ferit.
+
+133
+00:09:37,000 --> 00:09:38,000
+Se você quiser, pode dizer que é uma atuação.
+
+134
+00:09:38,000 --> 00:09:39,000
+Se você quiser, pode dizer que é teimosia.
+
+135
+00:09:39,000 --> 00:09:40,000
+Não me importa.
+
+136
+00:09:41,000 --> 00:09:43,000
+O que me importa são os exames.
+
+137
+00:09:45,000 --> 00:09:46,000
+Os exames estão melhorando.
+
+138
+00:09:47,000 --> 00:09:48,000
+Sim.
+
+139
+00:09:48,000 --> 00:09:49,000
+Sim, ela é minha esposa.
+
+140
+00:09:51,000 --> 00:09:53,000
+Ela é minha esposa, Suna.
+
+141
+00:09:55,000 --> 00:09:56,000
+O que eu faço?
+
+142
+00:09:57,000 --> 00:09:58,000
+Como vou desistir dela?
+
+143
+00:09:58,000 --> 00:09:59,000
+Eu prefiro morrer.
+```

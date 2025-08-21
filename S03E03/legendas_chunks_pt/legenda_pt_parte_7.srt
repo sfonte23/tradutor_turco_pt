@@ -1,0 +1,717 @@
+Here's the translated text in SRT format:
+
+```
+1
+00:00:00,000 --> 00:00:05,000
+Deixe-me ter uma mansão, não penso por um minuto, solto na hora.
+
+2
+00:00:05,920 --> 00:00:08,160
+Sou filho de rico, filha, me acostumei.
+
+3
+00:00:08,240 --> 00:00:09,880
+Olha pra mim, eu acabo com você.
+
+4
+00:00:09,960 --> 00:00:10,960
+O quê?
+
+5
+00:00:11,040 --> 00:00:13,880
+Na vida você deve estar sempre preparado para tudo.
+
+6
+00:00:13,960 --> 00:00:15,400
+Não estou preparado, querida.
+
+7
+00:00:16,280 --> 00:00:19,120
+Claro que não estou preparado. Estou brincando.
+
+8
+00:00:20,799 --> 00:00:24,680
+Você me ensinou tudo muito bem até agora.
+
+9
+00:00:24,760 --> 00:00:26,760
+Mas tenho minhas dúvidas sobre isso.
+
+10
+00:00:26,879 --> 00:00:27,879
+Hã?
+
+11
+00:00:29,160 --> 00:00:31,160
+Eu como suas dúvidas.
+
+12
+00:00:39,360 --> 00:00:40,840
+Ferit Korhan entrou em casa.
+
+13
+00:00:50,520 --> 00:00:54,080
+Ai, ai filha, ultimamente está assim.
+
+14
+00:00:54,160 --> 00:00:57,080
+Sobe e desce. Muito instável.
+
+15
+00:00:57,160 --> 00:00:58,720
+Hoje você não comeu nada, né?
+
+16
+00:00:58,799 --> 00:01:00,959
+Esses exames devem ser feitos em jejum.
+
+17
+00:01:01,040 --> 00:01:02,439
+Não, meu filho, não comi.
+
+18
+00:01:03,279 --> 00:01:05,680
+Mãe, você comeu doce de manhã.
+
+19
+00:01:05,760 --> 00:01:09,199
+Vocês comeram doce? Se comeram, os resultados vão sair muito elevados.
+
+20
+00:01:09,279 --> 00:01:10,680
+Vamos ver outro dia.
+
+21
+00:01:11,959 --> 00:01:13,519
+Ah, desculpe.
+
+22
+00:01:13,599 --> 00:01:16,120
+Eu comi isso ontem. Eu me confundi, desculpe.
+
+23
+00:01:16,199 --> 00:01:20,239
+Eu não comi. Eu sei o que comi e o que não comi, não é?
+
+24
+00:01:20,320 --> 00:01:21,559
+Certo então.
+
+25
+00:01:24,639 --> 00:01:27,360
+Ai, ai.
+
+26
+00:01:27,440 --> 00:01:28,440
+Mãe?
+
+27
+00:01:28,519 --> 00:01:31,639
+Ai, Sinan. Você veio, meu filho? Vem, vem.
+
+28
+00:01:31,720 --> 00:01:33,720
+Eu vim, mas o que está acontecendo agora?
+
+29
+00:01:33,800 --> 00:01:35,599
+Ai, ué.
+
+30
+00:01:36,680 --> 00:01:41,080
+Acordei com muita tontura esta manhã, tá bom?
+
+31
+00:01:41,160 --> 00:01:42,400
+Então eu liguei pro médico.
+
+32
+00:01:42,480 --> 00:01:46,000
+Vamos fazer um exame de sangue agora, vamos ver o que está acontecendo, disse.
+
+33
+00:01:46,080 --> 00:01:49,400
+A enfermeira já retirou meu sangue agora.
+
+34
+00:01:49,480 --> 00:01:52,160
+Ai, mãe, você não cuida de si mesma.
+
+35
+00:01:52,559 --> 00:01:55,559
+Mãe, você não presta atenção em si mesma. O que vamos fazer?
+
+36
+00:01:55,639 --> 00:01:57,160
+Como posso, meu filho?
+
+37
+00:01:57,239 --> 00:02:01,279
+Como posso? Tanta pressão, um caos. Tudo depende de mim. Como posso?
+
+38
+00:02:03,040 --> 00:02:05,160
+Quando sairão os resultados do exame?
+
+39
+00:02:05,239 --> 00:02:07,599
+Daqui a uma ou duas horas, Senhor Sinan. Melhores desejos.
+
+40
+00:02:07,680 --> 00:02:09,600
+Obrigado. Agradeço.
+
+41
+00:02:11,080 --> 00:02:13,440
+Descanse, mãe. Está bem?
+
+42
+00:02:14,279 --> 00:02:16,240
+Para onde você vai, Sinan?
+
+43
+00:02:16,320 --> 00:02:18,520
+Vou me encontrar com a Senhora Seher. Estamos procurando casa.
+
+44
+00:02:18,600 --> 00:02:20,600
+É por isso que estou saindo agora.
+
+45
+00:02:20,720 --> 00:02:22,080
+Entendi, meu filho, entendi.
+
+46
+00:02:22,160 --> 00:02:26,919
+Então, não basta que você tenha ido embora da minha vida...
+
+47
+00:02:27,000 --> 00:02:31,080
+...agora também me deixa nessa situação pra se encontrar com a Senhora Seher, meu filho.
+
+48
+00:02:31,160 --> 00:02:34,199
+Claro, isso é muito mais importante. A Senhora Seher é mais importante.
+
+49
+00:02:34,279 --> 00:02:37,679
+Encontrar uma casa é mais importante. Tudo é mais importante que eu.
+
+50
+00:02:37,759 --> 00:02:38,839
+Exatamente.
+
+51
+00:02:39,919 --> 00:02:43,360
+Sua mãe está sob minha proteção, está bem? Não vou me atrasar.
+
+52
+00:02:44,399 --> 00:02:45,839
+Estou mandando um beijo para vocês.
+
+53
+00:02:51,600 --> 00:02:53,199
+Deus me livre.
+
+54
+00:02:59,600 --> 00:03:01,199
+Ferit veio à noite?
+
+55
+00:03:03,520 --> 00:03:05,399
+Só um pouco, meu filho.
+
+56
+00:03:06,600 --> 00:03:08,440
+Eu vi ontem. Ele estava bem.
+
+57
+00:03:09,600 --> 00:03:14,160
+Aproveitando que meu garoto descontrolado não está aqui, tenho algumas coisas a dizer a vocês.
+
+58
+00:03:15,600 --> 00:03:18,479
+Seyran casou-se com o filho do Gantar.
+
+59
+00:03:21,600 --> 00:03:24,080
+Então saibam e se comportem de acordo.
+
+60
+00:03:25,520 --> 00:03:26,679
+Só falta isso.
+
+61
+00:03:26,759 --> 00:03:29,919
+O que é de menos ou de mais não diz respeito a vocês, Senhora İfakat.
+
+62
+00:03:30,000 --> 00:03:32,600
+Melhor vocês ouvirem de mim do que de outra pessoa.
+
+63
+00:03:32,679 --> 00:03:36,600
+Senhora Hattucu, será que suas filhas pensam em acabar com essa história de casamento...
+
+64
+00:03:36,679 --> 00:03:38,039
+...pelo menos?
+
+65
+00:03:38,119 --> 00:03:41,119
+Porque estão se casando a cada três dias como um hobby.
+
+66
+00:03:41,199 --> 00:03:43,800
+Não pode-se dizer que dure muito também.
+
+67
+00:03:43,880 --> 00:03:47,320
+Então, elas estão pensando em parar com essa história de casamento?
+
+68
+00:03:47,320 --> 00:03:50,119
+Não pode-se dizer que dure muito também.
+
+69
+00:04:03,199 --> 00:04:05,000
+Excede os limites, mas.
+
+70
+00:04:05,080 --> 00:04:06,559
+Na presença do convidado.
+
+71
+00:04:08,080 --> 00:04:10,800
+Ora, Senhora Hattucu. Somos convidados?
+
+72
+00:04:11,800 --> 00:04:13,399
+Felicidades, além disso.
+
+73
+00:04:13,479 --> 00:04:14,559
+Obrigado.
+
+74
+00:04:14,639 --> 00:04:16,239
+Mas essa notícia não está em lugar nenhum.
+
+75
+00:04:16,239 --> 00:04:17,760
+É que casaram em segredo.
+
+76
+00:04:17,839 --> 00:04:19,519
+Com um casamento relâmpago.
+
+77
+00:04:19,600 --> 00:04:21,600
+Por isso ninguém sabe.
+
+78
+00:04:21,679 --> 00:04:23,000
+E o que devemos dizer?
+
+79
+00:04:24,079 --> 00:04:26,200
+Felicidades, Senhora Hattucu.
+
+80
+00:04:26,279 --> 00:04:29,279
+Gostaríamos de receber um "parabéns" também.
+
+81
+00:04:30,920 --> 00:04:31,760
+Senhorita?
+
+82
+00:04:31,839 --> 00:04:33,920
+Estou pensando em não dizer nada, mas...
+
+83
+00:04:34,000 --> 00:04:37,839
+...todo mundo simplesmente diz que é viúvo ou viúva, e bate o martelo no casamento.
+
+84
+00:04:37,920 --> 00:04:40,399
+A viúva que você mencionou é minha sobrinha.
+
+85
+00:04:40,480 --> 00:04:43,799
+Desculpe, Senhora Hattucu, mas eu também estou preocupado.
+
+86
+00:04:43,799 --> 00:04:46,600
+Olhem, a barriga da Betül a cada dia incha mais.
+
+87
+00:04:46,679 --> 00:04:49,399
+Senhora Nurten, vocês estão vendo os problemas que temos.
+
+88
+00:04:49,480 --> 00:04:51,279
+Estou esperando que eles acabem.
+
+89
+00:04:51,359 --> 00:04:54,000
+Senhor Orhan, diga isso ao seu filho.
+
+90
+00:04:54,079 --> 00:04:55,679
+Espere para crescer.
+
+91
+00:04:55,760 --> 00:04:57,279
+Ele não está esperando, por isso.
+
+92
+00:04:58,119 --> 00:05:00,559
+Não se preocupe. Tudo será planejado.
+
+93
+00:05:00,640 --> 00:05:02,239
+Não há nenhum plano.
+
+94
+00:05:02,320 --> 00:05:04,959
+Vocês estão fazendo tudo de forma errada.
+
+95
+00:05:08,200 --> 00:05:11,000
+Bom apetite para vocês. Estou saindo um pouco para trabalhar.
+
+96
+00:05:11,399 --> 00:05:13,679
+Vou voltar em breve.
+
+97
+00:05:21,760 --> 00:05:22,600
+Pera.
+
+98
+00:05:24,519 --> 00:05:25,600
+Ayşe.
+
+99
+00:05:26,160 --> 00:05:30,040
+A luz dos meus olhos. Filha, ora ri, ora chora.
+
+100
+00:05:30,720 --> 00:05:33,320
+Faço tudo por você, mas você...
+
+101
+00:05:35,880 --> 00:05:39,000
+Senhora Şefika, sua filha já pirou faz tempo.
+
+102
+00:05:39,160 --> 00:05:40,519
+Quem é você?
+
+103
+00:05:40,600 --> 00:05:44,079
+Quem é você? E ainda ri da minha fala.
+
+104
+00:05:46,559 --> 00:05:48,679
+Senhora, me desculpe.
+
+105
+00:05:49,239 --> 00:05:51,320
+Ayşe está nervosa ultimamente.
+
+106
+00:05:51,399 --> 00:05:56,920
+Senhora Şefika, parecendo de lá, você acha que eu sou a pessoa para me preocupar com os problemas da Ayşe?
+
+107
+00:05:58,000 --> 00:06:01,279
+Abidin usou você para deixar Sunay com ciúmes e fez isso.
+
+108
+00:06:01,359 --> 00:06:03,399
+É só isso. Preocupe-se com seu problema.
+
+109
+00:06:03,480 --> 00:06:05,079
+E eu com isso? E eu com isso?
+
+110
+00:06:05,079 --> 00:06:07,160
+É só isso. Preocupe-se com seu problema.
+
+111
+00:06:07,239 --> 00:06:08,679
+E eu com isso? E eu com isso?
+
+112
+00:06:08,760 --> 00:06:13,239
+Você não está aqui. Você será como uma sombra. Entendeu? Você não está aqui.
+
+113
+00:06:19,839 --> 00:06:22,000
+Filha. Filha.
+
+114
+00:06:35,399 --> 00:06:36,399
+Bom dia.
+
+115
+00:06:36,480 --> 00:06:37,480
+Bom dia.
+
+116
+00:06:37,559 --> 00:06:40,760
+Beleza das belezas. Que elegância é essa?
+
+117
+00:06:41,440 --> 00:06:44,799
+Porque temos muito trabalho hoje, amor. Vamos encontrar nossa casa, tá bom?
+
+118
+00:06:44,880 --> 00:06:47,839
+Então, eu digo que primeiro vamos ver o bebê.
+
+119
+00:06:47,920 --> 00:06:50,519
+Depois tem uma casa em Emirgan.
+
+120
+00:06:50,600 --> 00:06:54,519
+E tem uma em Arnavutköy, mas não tenho certeza sobre isso.
+
+121
+00:06:54,600 --> 00:06:56,519
+Vamos lá, vá. Temos muito o que fazer hoje. Vamos.
+
+122
+00:06:56,600 --> 00:06:58,440
+Amor, preciso te dizer uma coisa.
+
+123
+00:06:58,519 --> 00:07:01,040
+Quero dizer algo, mas não sei.
+
+124
+00:07:01,119 --> 00:07:02,880
+O que aconteceu de novo? Aconteceu algo ruim de novo?
+
+125
+00:07:02,880 --> 00:07:05,000
+Não, não. Não aconteceu nada ruim. Nada de ruim aconteceu, mas...
+
+126
+00:07:05,079 --> 00:07:07,000
+...eu ia dizer. Tenho algumas coisas para resolver.
+
+127
+00:07:07,079 --> 00:07:09,279
+Coisas da empresa, documentação, tanta coisa acumulada.
+
+128
+00:07:09,359 --> 00:07:10,519
+Será que posso ir fazer isso?
+
+129
+00:07:10,600 --> 00:07:14,399
+Sinan, mas íamos olhar as casas juntos hoje. Qual é a urgência?
+
+130
+00:07:14,480 --> 00:07:16,440
+Eu sei. Você está certo, mas...
+
+131
+00:07:16,519 --> 00:07:19,920
+...você não acha que estamos apressando a compra da casa?
+
+132
+00:07:20,000 --> 00:07:23,760
+Não sei. Parecemos estar desesperados como se não fosse fácil encontrar uma casa...
+
+133
+00:07:23,839 --> 00:07:24,640
+...na verdade.
+
+134
+00:07:24,720 --> 00:07:26,920
+Não, não, não pense assim, Sinan. Nós vamos encontrar.
+
+135
+00:07:27,000 --> 00:07:27,519
+Sério?
+
+136
+00:07:27,600 --> 00:07:29,679
+Claro, claro. Nós vamos encontrar. Hoje mesmo.
+
+137
+00:07:30,519 --> 00:07:32,959
+Senhora Seher, eu estava pensando.
+
+138
+00:07:33,040 --> 00:07:37,640
+Será que sua pressa é por causa da lua de mel ou algo assim?
+
+139
+00:07:38,559 --> 00:07:42,239
+Sinan, que relação tem isso?
+
+140
+00:07:42,320 --> 00:07:47,040
+Eu só quero construir a vida que sonhamos o quanto antes.
+
+141
+00:07:47,119 --> 00:07:48,720
+Quero viver.
+
+142
+00:07:48,799 --> 00:07:54,320
+Nós vamos construir. Vamos construir, só que nos últimos dois anos não sonhei apenas em viver nossa vida.
+
+143
+00:07:54,399 --> 00:07:57,559
+Sonhei em te tocar, em te abraçar...
+
+144
+00:07:57,640 --> 00:08:00,720
+...em acordar abraçando você.
+
+145
+00:08:00,799 --> 00:08:03,239
+Sonhei em acordar com você.
+
+146
+00:08:04,440 --> 00:08:07,000
+Sinan, o que estou dizendo? O que você está dizendo?
+
+147
+00:08:07,079 --> 00:08:08,839
+Amor, estou mentindo?
+
+148
+00:08:08,920 --> 00:08:11,959
+Esperamos nos casar para viver tudo isso?
+
+149
+00:08:12,040 --> 00:08:15,200
+Mas não quero esta casa só para nossa primeira noite.
+
+150
+00:08:15,279 --> 00:08:17,079
+Eu quero uma casa grande.
+
+151
+00:08:17,160 --> 00:08:20,519
+Ou seja, uma casa que tenha você e nossos filhos.
+
+152
+00:08:20,600 --> 00:08:22,320
+Na verdade, eu quero três filhos.
+
+153
+00:08:23,040 --> 00:08:26,440
+Eu quero preparar um espaço para brincar para eles.
+
+154
+00:08:26,559 --> 00:08:30,119
+E eu quero montar um estúdio de arte bonito para você em casa.
+
+155
+00:08:30,200 --> 00:08:32,359
+Você queria se casar?
+
+156
+00:08:32,440 --> 00:08:37,840
+Viajar pelo mundo com seu marido e comer comidas deliciosas.
+
+157
+00:08:39,599 --> 00:08:41,400
+É isso mesmo?
+
+158
+00:08:41,479 --> 00:08:45,719
+Ficar grávida, ter filhos, criá-los. É só isso?
+
+159
+00:08:46,400 --> 00:08:47,799
+Só isso, você diz?
+
+160
+00:08:47,880 --> 00:08:52,159
+Isso é o sonho de todo mundo. Todo mundo quer isso.
+
+161
+00:08:53,159 --> 00:08:57,239
+Você não é como todo mundo. É isso que estou te dizendo.
+
+162
+00:08:58,080 --> 00:09:02,880
+Você é diferente, única. Você tem esse talento.
+
+163
+00:09:03,760 --> 00:09:06,599
+Eu sei muito bem o que você deseja, Zehra.
+
+164
+00:09:07,679 --> 00:09:11,440
+Você tem uma oportunidade aqui. Aproveite isso.
+
+165
+00:09:11,520 --> 00:09:14,640
+Faça isso mais para você do que para qualquer um.
+
+166
+00:09:15,359 --> 00:09:18,159
+Amor, o que aconteceu? Você ficou pensativa? Você não quer?
+
+167
+00:09:18,239 --> 00:09:22,039
+Quero, Sinan. Quero muito, claro que quero, mas...
+
+168
+00:09:22,200 --> 00:09:24,000
+...não quero esperar muito. Está bem?
+
+169
+00:09:24,080 --> 00:09:28,119
+Além disso, enquanto espero, não quero ficar longe de você.
+
+170
+00:09:28,200 --> 00:09:30,960
+Amor, tudo bem. Não vamos nos separar.
+
+171
+00:09:31,039 --> 00:09:33,880
+Então, vamos ficar juntos por um tempo ao menos. O que você acha?
+
+172
+00:09:33,960 --> 00:09:36,200
+Não. Não, não. De forma alguma.
+
+173
+00:09:36,280 --> 00:09:38,599
+Sério? Bem, tudo bem então.
+
+174
+00:09:38,679 --> 00:09:40,880
+Então, quando terminar, me avise. Está bem?
+
+175
+00:09:40,960 --> 00:09:42,679
+Eu também vou terminar meus negócios, resolver tudo.
+
+176
+00:09:42,760 --> 00:09:44,919
+Vou vir para olharmos juntos. Está bem?
+
+177
+00:09:45,000 --> 00:09:46,400
+Eu te conheço.
+
+178
+00:09:52,039 --> 00:09:53,359
+Obrigado pelo seu trabalho.
+``` 
+
+Let me know if you need anything else!

@@ -1,0 +1,561 @@
+Claro! Aqui está a tradução para o português mantendo o formato SRT:
+
+```
+1
+00:00:00,000 --> 00:00:07,000
+Pistache de Antep.
+
+2
+00:00:07,000 --> 00:00:09,000
+Vamos.
+
+3
+00:00:09,000 --> 00:00:11,000
+Vamos.
+
+4
+00:00:11,000 --> 00:00:13,000
+Vamos.
+
+5
+00:00:13,000 --> 00:00:15,000
+Vamos.
+
+6
+00:00:16,000 --> 00:00:18,000
+Vamos.
+
+7
+00:00:21,000 --> 00:00:23,000
+Vamos.
+
+8
+00:00:23,000 --> 00:00:25,000
+Vamos.
+
+9
+00:00:38,000 --> 00:00:40,000
+Vamos.
+
+10
+00:00:41,000 --> 00:00:43,000
+Vamos.
+
+11
+00:00:46,000 --> 00:00:48,000
+Vamos.
+
+12
+00:00:48,000 --> 00:00:51,000
+Vamos.
+
+13
+00:00:51,000 --> 00:00:54,000
+Vamos.
+
+14
+00:00:54,000 --> 00:00:56,000
+Vamos.
+
+15
+00:00:56,000 --> 00:00:57,000
+Vamos.
+
+16
+00:00:57,000 --> 00:00:59,000
+Vamos.
+
+17
+00:00:59,000 --> 00:01:01,000
+Vamos.
+
+18
+00:01:01,000 --> 00:01:03,000
+Vamos.
+
+19
+00:01:03,000 --> 00:01:05,000
+Vamos.
+
+20
+00:01:05,000 --> 00:01:07,000
+Vamos.
+
+21
+00:01:07,000 --> 00:01:09,000
+Vamos.
+
+22
+00:01:09,000 --> 00:01:11,000
+Vamos.
+
+23
+00:01:11,000 --> 00:01:13,000
+Vamos.
+
+24
+00:01:13,000 --> 00:01:15,000
+Vamos.
+
+25
+00:01:15,000 --> 00:01:17,000
+Vamos.
+
+26
+00:01:17,000 --> 00:01:19,000
+Vamos.
+
+27
+00:01:19,000 --> 00:01:21,000
+Vamos.
+
+28
+00:01:21,000 --> 00:01:23,000
+Vamos.
+
+29
+00:01:23,000 --> 00:01:25,000
+Vamos.
+
+30
+00:01:25,000 --> 00:01:27,000
+Vamos.
+
+31
+00:01:27,000 --> 00:01:29,000
+Vamos.
+
+32
+00:01:29,000 --> 00:01:31,000
+Vamos.
+
+33
+00:01:31,000 --> 00:01:33,000
+Vamos.
+
+34
+00:01:33,000 --> 00:01:35,000
+Vamos.
+
+35
+00:01:35,000 --> 00:01:37,000
+Vamos.
+
+36
+00:01:37,000 --> 00:01:39,000
+Vamos.
+
+37
+00:01:39,000 --> 00:01:41,000
+Vamos.
+
+38
+00:01:41,000 --> 00:01:41,959
+Vamos.
+
+39
+00:01:41,959 --> 00:01:43,959
+Vamos.
+
+40
+00:02:05,959 --> 00:02:07,959
+Por favor, chamem também as testemunhas do casamento.
+
+41
+00:02:12,960 --> 00:02:14,960
+Sinan, vem cá. O que você está fazendo?
+
+42
+00:02:20,960 --> 00:02:22,960
+Sinan, o que você está fazendo, meu irmão?
+
+43
+00:02:29,960 --> 00:02:30,960
+O que está acontecendo?
+
+44
+00:02:31,960 --> 00:02:32,960
+Aquele é o seu lugar, Ferit.
+
+45
+00:02:33,960 --> 00:02:35,960
+Estou dizendo que é seu lugar, passa.
+
+46
+00:02:36,960 --> 00:02:39,960
+Abidin pediu para eu ser testemunha, para você não vir.
+
+47
+00:02:40,960 --> 00:02:42,960
+Já que você veio, passe para o seu lugar, irmão.
+
+48
+00:02:43,960 --> 00:02:44,960
+Não, rapaz, pare com isso, vai.
+
+49
+00:02:45,960 --> 00:02:47,960
+Falo sério, passe. Não estou brincando.
+
+50
+00:02:48,960 --> 00:02:50,960
+Ferit, vai, meu irmão.
+
+51
+00:02:51,960 --> 00:02:52,960
+Não, filho, poxa.
+
+52
+00:02:53,960 --> 00:02:54,960
+Ferit, vem cá.
+
+53
+00:03:01,960 --> 00:03:03,960
+Bom, já que é assim, desculpe.
+
+54
+00:03:05,960 --> 00:03:06,960
+Ferit.
+
+55
+00:03:14,960 --> 00:03:18,960
+Sim, dou as boas-vindas a todos os nossos convidados e inicio o ato do casamento.
+
+56
+00:03:35,960 --> 00:03:43,960
+Você, Seyran Şanlı, aceita Ferit Korhan como seu esposo?
+
+57
+00:03:44,960 --> 00:03:45,960
+Sim.
+
+58
+00:03:46,960 --> 00:03:51,960
+Você, Ferit Korhan, aceita Seyran Şanlı como sua esposa?
+
+59
+00:03:56,960 --> 00:03:57,960
+Sim.
+
+60
+00:04:05,960 --> 00:04:06,960
+Sim.
+
+61
+00:04:35,959 --> 00:04:36,959
+Ferit.
+
+62
+00:05:01,959 --> 00:05:03,959
+Vamos, pare de segurar minha irmã.
+
+63
+00:05:04,959 --> 00:05:05,959
+Oh, meu Deus.
+
+64
+00:05:07,959 --> 00:05:08,959
+Felicidades, irmão.
+
+65
+00:05:08,959 --> 00:05:09,959
+Obrigado.
+
+66
+00:05:13,959 --> 00:05:14,959
+Felicidades.
+
+67
+00:05:14,959 --> 00:05:15,959
+Obrigado.
+
+68
+00:05:18,959 --> 00:05:19,959
+Que lindo seu colar.
+
+69
+00:05:21,959 --> 00:05:22,959
+Seyran desenhou.
+
+70
+00:05:25,959 --> 00:05:26,959
+Mãe.
+
+71
+00:05:33,959 --> 00:05:34,959
+Mãe.
+
+72
+00:05:44,959 --> 00:05:45,959
+Ainda está desenhando?
+
+73
+00:05:48,959 --> 00:05:50,959
+Não, quer dizer, eu só desenhei para minha irmã.
+
+74
+00:05:54,959 --> 00:05:56,959
+Mas ouvi que você estava desenhando.
+
+75
+00:05:57,959 --> 00:05:58,959
+Eu adoro desenhar.
+
+76
+00:05:59,959 --> 00:06:04,959
+Quando estou de bom humor, ou seja, quando estou realmente de bom humor...
+
+77
+00:06:04,959 --> 00:06:09,959
+...em dias normais, eu desenho bem, consigo fazer isso, mas...
+
+78
+00:06:12,959 --> 00:06:14,959
+...às vezes eu não consigo e tal.
+
+79
+00:06:14,959 --> 00:06:16,959
+Atualmente, estou em uma fase que não consigo.
+
+80
+00:06:17,959 --> 00:06:18,959
+Sério?
+
+81
+00:06:20,959 --> 00:06:22,959
+Na verdade, daqui a dois dias vai ter uma grande apresentação.
+
+82
+00:06:23,959 --> 00:06:24,959
+Mas não consigo desenhar.
+
+83
+00:06:24,959 --> 00:06:25,959
+Não quero, mas.
+
+84
+00:06:26,959 --> 00:06:29,959
+Como assim, só faltam dois dias? Não fique tão nervoso.
+
+85
+00:06:30,959 --> 00:06:31,959
+Além disso, você é Ferit Korhan.
+
+86
+00:06:32,959 --> 00:06:33,959
+Você consegue.
+
+87
+00:06:34,959 --> 00:06:35,959
+Sério?
+
+88
+00:06:43,959 --> 00:06:44,959
+Vou para o meu lugar.
+
+89
+00:06:54,959 --> 00:06:55,959
+Vamos.
+
+90
+00:07:13,959 --> 00:07:14,959
+Ainda bem que passamos a apresentação.
+
+91
+00:07:16,959 --> 00:07:18,959
+Ainda bem que aquele fogo dentro de mim nunca se apagou.
+
+92
+00:07:20,959 --> 00:07:22,959
+Ainda bem que nossos dias reacenderam.
+
+93
+00:07:25,959 --> 00:07:27,959
+Mas, quanto a isso, não sei se...
+
+94
+00:07:28,959 --> 00:07:31,959
+...posso desejar o mesmo para a Seyran.
+
+95
+00:07:32,959 --> 00:07:33,959
+Todo dia...
+
+96
+00:07:34,959 --> 00:07:37,959
+...não é garantido que haverá algo novo na apresentação. Não tenha medo.
+
+97
+00:07:38,959 --> 00:07:39,959
+Como não teria medo, Işık?
+
+98
+00:07:40,959 --> 00:07:41,959
+Ela diz que vai se casar com Sinan.
+
+99
+00:07:42,959 --> 00:07:44,959
+Ela ainda ama o Ferit.
+
+100
+00:07:44,959 --> 00:07:45,959
+Não é certo, entendeu?
+
+101
+00:07:48,959 --> 00:07:52,959
+Por que? Quando você se casou com aquele traste, você ainda não me amava?
+
+102
+00:07:52,959 --> 00:07:54,959
+Por que está trazendo isso agora? Qual é a relação?
+
+103
+00:07:55,959 --> 00:07:56,959
+Além do mais, Sinan está perdido, um...
+
+104
+00:07:56,959 --> 00:07:58,959
+Certo, não disse que ele não existe, mas...
+
+105
+00:07:59,959 --> 00:08:02,959
+...Sinan é pelo menos um garoto maravilhoso.
+
+106
+00:08:04,959 --> 00:08:06,959
+Mas algumas coisas não se apagam tão facilmente.
+
+107
+00:08:07,959 --> 00:08:08,959
+Por que você fez algo assim?
+
+108
+00:08:11,959 --> 00:08:13,959
+Irmão, fiz o que era certo, na minha opinião.
+
+109
+00:08:15,959 --> 00:08:16,959
+Não amamos você em vão.
+
+110
+00:08:17,959 --> 00:08:18,959
+Filho.
+
+111
+00:08:18,959 --> 00:08:19,959
+Meu amor.
+
+112
+00:08:21,959 --> 00:08:22,959
+Olha, amigo...
+
+113
+00:08:23,959 --> 00:08:24,959
+...quando eu estava me casando com você...
+
+114
+00:08:25,959 --> 00:08:26,959
+...quando eu estava me casando com você...
+
+115
+00:08:27,959 --> 00:08:28,959
+...quando eu estava me casando com você...
+
+116
+00:08:29,959 --> 00:08:30,959
+...quando eu estava me casando com você...
+
+117
+00:08:31,959 --> 00:08:32,960
+...quando eu estava me casando com você...
+
+118
+00:08:33,960 --> 00:08:34,960
+...quando eu estava me casando com você...
+
+119
+00:08:35,960 --> 00:08:37,960
+Amigo, que tipo de ambiente é esse?
+
+120
+00:08:38,960 --> 00:08:41,960
+O que ele está fazendo aqui? O que ele está fazendo? O novo noivo está chateado.
+
+121
+00:08:42,960 --> 00:08:43,960
+Que se dane você, Kazım? Olhe para frente.
+
+122
+00:08:44,960 --> 00:08:46,960
+Como assim, isso é uma desculpa? Como assim, isso é uma desculpa?
+
+123
+00:08:47,960 --> 00:08:49,960
+Se Sinan for o noivo, e se ele desistir de se casar, você quem sabe?
+
+124
+00:08:50,960 --> 00:08:53,960
+Kazım, você não desistiu de mim. Você vai desistir disso?
+
+125
+00:08:54,960 --> 00:08:57,960
+Oh Deus! Garota, estou em um casamento, não vou dizer nada. Olha para isso.
+
+126
+00:09:00,960 --> 00:09:02,960
+Não, eu não vou aguentar. Vou falar.
+
+127
+00:09:02,960 --> 00:09:03,960
+Espera, espera.
+
+128
+00:09:04,960 --> 00:09:06,960
+Só espera. Um momento.
+
+129
+00:09:07,960 --> 00:09:08,960
+Eu vou falar. Eu vou falar.
+
+130
+00:09:09,960 --> 00:09:10,960
+Não estou falando. Obrigado. Amigo.
+
+131
+00:09:16,960 --> 00:09:17,960
+O que você está fazendo aqui? Louco.
+
+132
+00:09:21,960 --> 00:09:22,960
+Finalmente se encontraram.
+
+133
+00:09:25,960 --> 00:09:28,960
+Ninguém pode impedir grandes amores. Você sabe.
+
+134
+00:09:33,960 --> 00:09:35,960
+Oh, meu Deus.
+
+135
+00:09:37,960 --> 00:09:38,960
+Estou indo embora.
+
+136
+00:09:41,960 --> 00:09:45,960
+Sim, saudação para você também, Kazım papai. Kazım Ağa.
+
+137
+00:09:46,960 --> 00:09:47,960
+Papai.
+
+138
+00:09:48,960 --> 00:09:51,960
+De jeito nenhum, filho, esqueça a saudação. O que você está fazendo aqui, Ferit?
+
+139
+00:09:52,960 --> 00:09:58,960
+O que há, Kazım Bey? Eu convidei meu irmão. É meu casamento.
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

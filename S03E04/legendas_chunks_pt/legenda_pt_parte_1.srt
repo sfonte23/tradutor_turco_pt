@@ -1,0 +1,820 @@
+99
+00:10:00,000 --> 00:10:01,000
+Sim.
+
+100
+00:10:03,880 --> 00:10:05,280
+De que parte de Antep?
+
+101
+00:10:06,360 --> 00:10:07,840
+De que família você é, meu filho?
+
+102
+00:10:11,600 --> 00:10:14,040
+Achamos que era genro motorista, mas era o Orhan, meus filhos.
+
+103
+00:10:14,280 --> 00:10:15,280
+Abidin.
+
+104
+00:10:17,800 --> 00:10:20,040
+Sobrinho legítimo do Sr. Halis Han.
+
+105
+00:10:21,880 --> 00:10:23,080
+Não tenho ninguém.
+
+106
+00:10:23,720 --> 00:10:25,200
+Cresci em orfanato.
+
+107
+00:10:27,200 --> 00:10:28,200
+Sim.
+
+108
+00:10:29,160 --> 00:10:30,160
+Eu sei.
+
+109
+00:10:34,320 --> 00:10:35,320
+Eu também...
+
+110
+00:10:37,040 --> 00:10:39,040
+...era muito pequeno.
+
+111
+00:10:42,160 --> 00:10:44,239
+Minha mãe me deixou e foi embora, morreu.
+
+112
+00:10:46,600 --> 00:10:47,600
+Meus pêsames.
+
+113
+00:10:48,200 --> 00:10:49,200
+Obrigado.
+
+114
+00:10:49,920 --> 00:10:50,920
+Então eu sei.
+
+115
+00:10:53,680 --> 00:10:54,680
+O que é...
+
+116
+00:10:55,200 --> 00:10:57,320
+...não receber carinho...
+
+117
+00:10:58,760 --> 00:10:59,760
+...eu sei muito bem.
+
+118
+00:11:01,280 --> 00:11:02,280
+Muito bem.
+
+119
+00:11:02,720 --> 00:11:03,720
+E então?
+
+120
+00:11:04,640 --> 00:11:05,640
+Depois?
+
+121
+00:11:07,840 --> 00:11:09,280
+Até os dezoito, só isso.
+
+122
+00:11:10,080 --> 00:11:11,880
+Depois dos dezoito, te liberam.
+
+123
+00:11:12,640 --> 00:11:14,400
+Você se vira sozinho.
+
+124
+00:11:16,600 --> 00:11:17,600
+Claro.
+
+125
+00:11:18,840 --> 00:11:22,360
+E se você se perde por aí, acaba se metendo em encrenca.
+
+126
+00:11:23,920 --> 00:11:25,240
+Você tem inimigos?
+
+127
+00:11:25,320 --> 00:11:26,320
+Não.
+
+128
+00:11:26,840 --> 00:11:27,840
+Não se preocupe.
+
+129
+00:11:28,440 --> 00:11:31,440
+Quando percebi que ficar vagando não ia dar certo...
+
+130
+00:11:32,360 --> 00:11:34,040
+...voltei para o "pai Estado".
+
+131
+00:11:34,600 --> 00:11:35,600
+Serviço militar.
+
+132
+00:11:36,640 --> 00:11:37,640
+Eu sei, sei.
+
+133
+00:11:38,320 --> 00:11:39,320
+Vai, fala logo.
+
+134
+00:11:39,400 --> 00:11:40,400
+Eu sei.
+
+135
+00:11:40,720 --> 00:11:42,760
+Atende logo esse telefone. Atende.
+
+136
+00:11:42,840 --> 00:11:44,280
+Pelo amor de Deus.
+
+137
+00:11:44,360 --> 00:11:46,600
+Tomara que o que eu estou pensando não tenha acontecido.
+
+138
+00:11:47,440 --> 00:11:48,440
+Ai.
+
+139
+00:11:52,080 --> 00:11:54,360
+Ah, tomara que não tenha ido até o Abidin.
+
+140
+00:11:54,440 --> 00:11:56,680
+Tomara que não tenha ido até ele.
+
+141
+00:11:57,400 --> 00:11:58,400
+Ai.
+
+142
+00:12:01,800 --> 00:12:04,920
+O resto vocês já sabem.
+
+143
+00:12:05,000 --> 00:12:06,000
+Estamos aqui, enfim.
+
+144
+00:12:07,440 --> 00:12:08,440
+Sr. Kazım.
+
+145
+00:12:10,200 --> 00:12:11,200
+Que "senhor", filho?
+
+146
+00:12:12,120 --> 00:12:13,120
+Que "senhor", hein?
+
+147
+00:12:15,080 --> 00:12:16,320
+Não vou te chamar de pai.
+
+148
+00:12:18,520 --> 00:12:22,040
+Não estou acostumado a chamar alguém de pai.
+
+149
+00:12:22,400 --> 00:12:23,720
+Eu também não te chamo de filho.
+
+150
+00:12:23,800 --> 00:12:24,800
+Não é?
+
+151
+00:12:24,880 --> 00:12:25,880
+Então não chama de pai.
+
+152
+00:12:25,920 --> 00:12:26,920
+Chama de "Ağa".
+
+153
+00:12:27,000 --> 00:12:28,000
+Eu sou o Kazım Ağa.
+
+154
+00:12:28,079 --> 00:12:29,079
+Kazım Ağa.
+
+155
+00:12:30,440 --> 00:12:32,280
+Você disse que tinha coisas que eu precisava saber.
+
+156
+00:12:32,359 --> 00:12:33,640
+E me trouxe até aqui.
+
+157
+00:12:34,640 --> 00:12:35,640
+Fala.
+
+158
+00:12:36,079 --> 00:12:37,560
+O que é que eu preciso saber?
+
+159
+00:12:37,640 --> 00:12:38,640
+Nada.
+
+160
+00:12:38,720 --> 00:12:39,720
+Não é nada.
+
+161
+00:12:40,000 --> 00:12:41,000
+Filho...
+
+162
+00:12:41,240 --> 00:12:42,320
+...você casou com minha filha.
+
+163
+00:12:42,400 --> 00:12:43,400
+Certo?
+
+164
+00:12:43,480 --> 00:12:46,600
+E por isso não tivemos chance de sentar e conversar.
+
+165
+00:12:47,280 --> 00:12:50,120
+Você, claro, passou anos andando com aquele vagabundo do Ferit...
+
+166
+00:12:50,200 --> 00:12:51,760
+...pulando e aprontando.
+
+167
+00:12:51,840 --> 00:12:54,480
+Eu só não quero que faça o mesmo. Foi por isso que te chamei.
+
+168
+00:12:56,720 --> 00:12:58,519
+Esse telefone não para de vibrar também.
+
+169
+00:13:00,240 --> 00:13:03,400
+Filha, ligaram vinte e sete vezes? Espera aí.
+
+170
+00:13:05,240 --> 00:13:06,760
+E aí, e então?
+
+171
+00:13:07,920 --> 00:13:10,240
+Você nunca tentou ligar para sua mãe ou seu pai?
+
+172
+00:13:12,800 --> 00:13:14,200
+Minha mãe e meu pai...
+
+173
+00:13:14,280 --> 00:13:16,000
+...estão ligando para você.
+
+174
+00:13:16,079 --> 00:13:18,320
+Atende, moça da vila. Seu marido está ligando.
+
+175
+00:13:18,880 --> 00:13:19,880
+Oi, querida.
+
+176
+00:13:19,959 --> 00:13:20,959
+Então...
+
+177
+00:13:21,040 --> 00:13:22,040
+...Abidin.
+
+178
+00:13:22,680 --> 00:13:24,359
+Amor, onde você está?
+
+179
+00:13:24,440 --> 00:13:25,440
+Estou com seu pai.
+
+180
+00:13:26,920 --> 00:13:28,320
+Ele está fazendo kebab para mim.
+
+181
+00:13:28,400 --> 00:13:31,600
+Cartla, Cartla. Minha filha ainda nem sabe o que é Cartla.
+
+182
+00:13:31,680 --> 00:13:35,359
+Então tá com seu pai, né? Você pode passar pra ele?
+
+183
+00:13:35,440 --> 00:13:36,959
+Eu ia ligar pra ele mesmo.
+
+184
+00:13:37,799 --> 00:13:38,799
+Ah, ele quer.
+
+185
+00:13:38,880 --> 00:13:39,880
+Vai.
+
+186
+00:13:39,959 --> 00:13:40,959
+Vai.
+
+187
+00:13:41,040 --> 00:13:42,040
+Vai.
+
+188
+00:13:42,120 --> 00:13:43,120
+Vai.
+
+189
+00:13:43,200 --> 00:13:44,200
+Vai.
+
+190
+00:13:44,280 --> 00:13:45,280
+Vai.
+
+191
+00:13:45,359 --> 00:13:46,359
+Vai.
+
+192
+00:13:46,440 --> 00:13:47,440
+Vai.
+
+193
+00:13:47,680 --> 00:13:48,680
+Ah.
+
+194
+00:13:50,079 --> 00:13:51,079
+Oh.
+
+195
+00:13:51,920 --> 00:13:53,020
+Nossa barriga está grudenta.
+
+196
+00:13:54,200 --> 00:13:56,140
+Vamos, espere o maiô.
+
+197
+00:13:57,000 --> 00:13:57,880
+Está quente.
+
+198
+00:13:57,960 --> 00:13:59,040
+Está quente.
+
+199
+00:13:59,120 --> 00:14:01,280
+Não aguenta, olha só, está com saudade do pai.
+
+200
+00:14:01,359 --> 00:14:04,400
+Filha, para uma menina o pai é importante, rápido.
+
+201
+00:14:04,480 --> 00:14:05,840
+Sim, minha linda.
+
+202
+00:14:06,920 --> 00:14:09,079
+Compramos isso chamado Entebbe.
+
+203
+00:14:09,160 --> 00:14:12,560
+Juro, Cartla, Martin não sabe nada.
+
+204
+00:14:12,640 --> 00:14:14,880
+Eu que cuidei de tudo, juro.
+
+205
+00:14:14,960 --> 00:14:15,960
+Ele não faz nada.
+
+206
+00:14:16,040 --> 00:14:17,040
+Só fica me olhando sem fazer nada.
+
+207
+00:14:17,040 --> 00:14:19,040
+Não se preocupe, minha linda.
+
+208
+00:14:19,080 --> 00:14:23,120
+Ainda vou ensinar muita coisa para ela.
+
+209
+00:14:23,160 --> 00:14:27,080
+Antep, tava, cartla, tudo ela vai aprender, pode esperar.
+
+210
+00:14:27,120 --> 00:14:28,480
+Pode esperar.
+
+211
+00:14:28,520 --> 00:14:31,200
+Vamos desligar, temos trabalho agora.
+
+212
+00:14:31,240 --> 00:14:33,000
+Vamos, vamos, se cuida, vai.
+
+213
+00:14:33,040 --> 00:14:34,000
+Mana.
+
+214
+00:14:36,720 --> 00:14:38,360
+Vocês cansaram muito, hein.
+
+215
+00:14:38,400 --> 00:14:39,400
+Ai!
+
+216
+00:14:41,800 --> 00:14:42,800
+E então?
+
+217
+00:14:43,640 --> 00:14:45,040
+Você falou da sua mãe e do seu pai.
+
+218
+00:14:47,040 --> 00:14:53,320
+Quis ligar para eles, mas desisti.
+
+219
+00:14:53,360 --> 00:14:56,800
+Então quem te deixou no orfanato?
+
+220
+00:15:00,000 --> 00:15:01,320
+Não sei.
+
+221
+00:15:01,360 --> 00:15:04,280
+Alguém me deixou na porta do orfanato.
+
+222
+00:15:06,080 --> 00:15:08,760
+Eu também tinha um anel no meu pano de bebê.
+
+223
+00:15:08,800 --> 00:15:11,720
+Claro, só me deram quando fiz dezoito anos.
+
+224
+00:15:11,760 --> 00:15:13,520
+Deve ter sido minha mãe.
+
+225
+00:15:13,560 --> 00:15:16,400
+Como você foi parar no Koranlar?
+
+226
+00:15:22,920 --> 00:15:25,760
+Depois que saí do exército, comecei a procurar emprego.
+
+227
+00:15:25,800 --> 00:15:29,800
+Latif precisava de um homem de confiança.
+
+228
+00:15:29,840 --> 00:15:31,800
+Foi assim que nos conhecemos.
+
+229
+00:15:34,120 --> 00:15:35,560
+Não foi Latif.
+
+230
+00:15:35,600 --> 00:15:37,800
+Foi Latif, sim.
+
+231
+00:15:37,840 --> 00:15:39,840
+O que eu fiz, hein?
+
+232
+00:15:41,720 --> 00:15:44,120
+O que vou dizer agora pra Asya?
+
+233
+00:15:50,400 --> 00:15:51,880
+E aí, meu parceiro?
+
+234
+00:15:54,080 --> 00:15:55,200
+O que aconteceu?
+
+235
+00:15:55,240 --> 00:15:56,640
+O que aconteceu?
+
+236
+00:15:56,680 --> 00:15:57,680
+O que aconteceu?
+
+237
+00:15:57,720 --> 00:15:58,720
+O que aconteceu?
+
+238
+00:15:58,760 --> 00:15:59,760
+O que aconteceu?
+
+239
+00:15:59,800 --> 00:16:00,800
+O que aconteceu?
+
+240
+00:16:00,840 --> 00:16:01,840
+O que aconteceu?
+
+241
+00:16:01,880 --> 00:16:02,880
+O que aconteceu?
+
+242
+00:16:02,920 --> 00:16:03,920
+O que aconteceu?
+
+243
+00:16:04,920 --> 00:16:06,160
+O que aconteceu?
+
+244
+00:16:12,000 --> 00:16:14,440
+Meu parceiro, exagerou um pouco, né?
+
+245
+00:16:19,480 --> 00:16:21,920
+O que aconteceu? Por que seu rosto está assim?
+
+246
+00:16:22,080 --> 00:16:23,480
+Não está assim.
+
+247
+00:16:26,040 --> 00:16:27,120
+Quer dizer...
+
+248
+00:16:29,440 --> 00:16:32,560
+Eu não esqueci nenhum dos dois, Sevda.
+
+249
+00:16:33,920 --> 00:16:38,600
+Posso entender pelo seu rosto o que você está pensando.
+
+250
+00:16:40,200 --> 00:16:42,400
+Quer dizer que você lê a mente, né?
+
+251
+00:16:44,000 --> 00:16:45,000
+Quer dizer.
+
+252
+00:16:45,800 --> 00:16:50,320
+Mesmo que minha leitura de mente esteja um pouco enferrujada, eu ainda consigo.
+
+253
+00:16:51,080 --> 00:16:52,080
+O que houve?
+
+254
+00:16:53,400 --> 00:16:56,080
+Pelo que sei, Seyir não muda de ideia tão fácil assim.
+
+255
+00:16:56,160 --> 00:16:57,160
+Algo aconteceu.
+
+256
+00:16:58,760 --> 00:17:00,080
+Então ele não te ligou?
+
+257
+00:17:00,160 --> 00:17:02,040
+Não, ninguém me ligou.
+
+258
+00:17:02,360 --> 00:17:06,440
+Então vocês também não contaram que tem um problema com a tia Hatun?
+
+259
+00:17:06,520 --> 00:17:09,280
+Não tem problema. Tia Hatun foi operada no ano passado.
+
+260
+00:17:09,360 --> 00:17:10,880
+Ok, eu vou ligar para vocês.
+
+261
+00:17:16,800 --> 00:17:17,800
+Quem é, amor?
+
+262
+00:17:18,760 --> 00:17:21,320
+Minha mãe. Não consegui falar no telefone.
+
+263
+00:17:21,400 --> 00:17:24,160
+Agora vou arrumar minhas coisas, aí eu falo.
+
+264
+00:17:24,240 --> 00:17:26,040
+Claro, fala.
+
+265
+00:17:26,960 --> 00:17:29,920
+Será que a gente não deveria se mudar logo para nossa casa?
+
+266
+00:17:30,000 --> 00:17:31,600
+Porque eu estou super animada.
+
+267
+00:17:31,640 --> 00:17:33,720
+Estou esperando essa noite há muito tempo.
+
+268
+00:17:33,800 --> 00:17:37,120
+Agora não é só no papel, vamos ser mesmo marido e mulher.
+
+269
+00:17:37,880 --> 00:17:39,840
+O que você acha? Vamos lá pegar suas coisas.
+
+270
+00:17:39,920 --> 00:17:42,160
+Olha, Sinan, deixa eu ir sozinha...
+
+271
+00:17:42,960 --> 00:17:45,040
+...eu vou explicar sozinha. Você nem precisa ir.
+
+272
+00:17:45,120 --> 00:17:47,520
+Eu vou e volto rápido de táxi, tá bom?
+
+273
+00:17:48,120 --> 00:17:49,640
+Ok. Até mais.
+
+274
+00:17:52,960 --> 00:17:57,160
+Como eu disse, eu adoro desenhar.
+
+275
+00:17:58,040 --> 00:18:00,840
+E você insistiu muito, então vamos ver se funciona.
+
+276
+00:18:02,600 --> 00:18:04,240
+O que o Sinan acha disso?
+
+277
+00:18:05,320 --> 00:18:08,040
+Não sei. Decidi rápido, ele nem sabe.
+
+278
+00:18:08,120 --> 00:18:09,120
+Ah.
+
+279
+00:18:10,360 --> 00:18:12,520
+Ele vai ficar chateado quando souber.
+
+280
+00:18:14,600 --> 00:18:16,560
+Vai saber, Ferit, ele que se vire.
+
+281
+00:18:20,240 --> 00:18:24,400
+Depois você vai dizer que o Sinan não aceitou e tal...
+
+282
+00:18:24,480 --> 00:18:26,920
+...mas não vai me deixar na mão, né?
+
+283
+00:18:28,000 --> 00:18:29,520
+Pode ficar tranquilo, Ferit.
+
+284
+00:18:29,520 --> 00:18:34,200
+Você me conhece. Se eu decidi fazer, está feito.
+
+285
+00:18:36,480 --> 00:18:42,480
+Mas e o Diyar? O que ele vai pensar disso? Você acha que ele não vai ficar incomodado?
+
+286
+00:18:43,560 --> 00:18:47,320
+Não. O Diyar não é como o Sinan.
+
+287
+00:18:47,880 --> 00:18:51,480
+Além disso, a gente nem é casado, estamos tranquilos.
+
+288
+00:18:54,520 --> 00:18:56,040
+Você não pensa em casar?
+
+289
+00:18:56,120 --> 00:18:57,120
+Casar com quem?
+
+290
+00:18:57,160 --> 00:18:58,720
+Não, amiga.
+
+291
+00:18:59,920 --> 00:19:02,400
+Pra mim isso já passou.
+
+292
+00:19:02,880 --> 00:19:06,240
+Eu acho que já completei minha cota de casamentos na vida.
+
+293
+00:19:13,880 --> 00:19:15,200
+Você queria um filho.
+
+294
+00:19:15,280 --> 00:19:16,280
+Um filho?
+
+295
+00:19:20,040 --> 00:19:22,000
+Quer dizer, quer que eu fale algo?
+
+296
+00:19:22,080 --> 00:19:23,080
+Sim.
+
+297
+00:19:24,080 --> 00:19:25,680
+Eu queria de você.
+
+298
+00:19:41,000 --> 00:19:43,000
+Queria de você, Erkan.
+
+299
+00:19:44,200 --> 00:19:48,440
+Queria dizer que quem está casado com você é o Ferit.
+
+300
+00:19:49,240 --> 00:19:50,880
+Mudei muito.
+
+301
+00:19:51,880 --> 00:19:53,400
+Mudei muito.
+
+302
+00:19:54,600 --> 00:19:56,200
+Como você mudou.
+
+303
+00:19:56,640 --> 00:19:59,840
+Agora não me importo tanto com essas coisas.
+

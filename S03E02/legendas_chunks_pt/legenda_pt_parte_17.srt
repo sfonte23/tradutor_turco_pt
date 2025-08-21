@@ -1,0 +1,11 @@
+Claro! Aqui está a tradução para português mantendo o formato SRT:
+
+```
+1
+00:00:00,000 --> 00:00:02,000
+Legenda M.K.
+
+2
+00:00:30,000 --> 00:00:32,000
+Legenda M.K.
+```

@@ -1,0 +1,947 @@
+Claro! Aqui está a tradução para o português mantendo o formato SRT:
+
+1  
+00:00:00,000 --> 00:00:06,000  
+Esta descrição do desenho animado foi feita pela TRT Çocuk para a Associação de Descrição de Áudio.
+
+2  
+00:00:06,000 --> 00:00:12,000  
+Acesse www.associacaodescricaodeaudio.com
+
+3  
+00:00:12,000 --> 00:00:16,000  
+Texto e Narração da Descrição de Áudio
+
+4  
+00:00:16,000 --> 00:00:20,000  
+Ece Naz Batmaz
+
+5  
+00:00:20,000 --> 00:00:24,000  
+Legendas M.K.
+
+6  
+00:00:30,000 --> 00:00:34,000  
+Texto e Narração da Descrição de Áudio
+
+7  
+00:00:34,000 --> 00:00:38,000  
+Ece Naz Batmaz
+
+8  
+00:00:38,000 --> 00:00:42,000  
+Legendas M.K.
+
+9  
+00:00:42,000 --> 00:00:46,000  
+Texto e Narração da Descrição de Áudio
+
+10  
+00:00:46,000 --> 00:00:50,000  
+Ece Naz Batmaz
+
+11  
+00:00:50,000 --> 00:00:54,000  
+Narrador
+
+12  
+00:00:54,000 --> 00:00:58,000  
+Ece Naz Batmaz
+
+13  
+00:00:58,000 --> 00:01:02,000  
+Narrador
+
+14  
+00:01:02,000 --> 00:01:06,000  
+Ece Naz Batmaz
+
+15  
+00:01:06,000 --> 00:01:10,000  
+Narrador
+
+16  
+00:01:10,000 --> 00:01:14,000  
+Ece Naz Batmaz
+
+17  
+00:01:14,000 --> 00:01:18,000  
+Narrador
+
+18  
+00:01:18,000 --> 00:01:22,000  
+Narrador
+
+19  
+00:01:22,000 --> 00:01:24,000  
+Ece Naz Batmaz
+
+20  
+00:01:24,000 --> 00:01:26,000  
+Narrador
+
+21  
+00:01:26,000 --> 00:01:28,000  
+Ece Naz Batmaz
+
+22  
+00:01:28,000 --> 00:01:30,000  
+Narrador
+
+23  
+00:01:30,000 --> 00:01:32,000  
+Ece Naz Batmaz
+
+24  
+00:01:32,000 --> 00:01:34,000  
+Narrador
+
+25  
+00:01:34,000 --> 00:01:36,000  
+Ece Naz Batmaz
+
+26  
+00:01:36,000 --> 00:01:38,000  
+Narrador
+
+27  
+00:01:38,000 --> 00:01:40,000  
+Ece Naz Batmaz
+
+28  
+00:01:40,000 --> 00:01:42,000  
+Narrador
+
+29  
+00:01:42,000 --> 00:01:44,000  
+Ece Naz Batmaz
+
+30  
+00:01:44,000 --> 00:01:46,000  
+Narrador
+
+31  
+00:01:46,000 --> 00:01:48,000  
+Ece Naz Batmaz
+
+32  
+00:01:48,000 --> 00:01:50,000  
+Ece Naz Batmaz
+
+33  
+00:01:50,000 --> 00:01:52,000  
+Narrador
+
+34  
+00:01:52,000 --> 00:01:54,000  
+Ece Naz Batmaz
+
+35  
+00:01:54,000 --> 00:01:56,000  
+Narrador
+
+36  
+00:01:56,000 --> 00:01:58,000  
+Ece Naz Batmaz
+
+37  
+00:01:58,000 --> 00:02:00,000  
+Narrador
+
+38  
+00:02:00,000 --> 00:02:02,000  
+Ece Naz Batmaz
+
+39  
+00:02:02,000 --> 00:02:04,000  
+Narrador
+
+40  
+00:02:04,000 --> 00:02:06,000  
+Ece Naz Batmaz
+
+41  
+00:02:06,000 --> 00:02:08,000  
+Narrador
+
+42  
+00:02:08,000 --> 00:02:10,000  
+Ece Naz Batmaz
+
+43  
+00:02:10,000 --> 00:02:12,000  
+Narrador
+
+44  
+00:02:12,000 --> 00:02:14,000  
+Ece Naz Batmaz
+
+45  
+00:02:14,000 --> 00:02:16,000  
+Narrador
+
+46  
+00:02:16,000 --> 00:02:18,000  
+Ece Naz Batmaz
+
+47  
+00:02:18,000 --> 00:02:20,000  
+Narrador
+
+48  
+00:02:20,000 --> 00:02:22,000  
+Ece Naz Batmaz
+
+49  
+00:02:22,000 --> 00:02:24,000  
+Narrador
+
+50  
+00:02:24,000 --> 00:02:26,000  
+Ece Naz Batmaz
+
+51  
+00:02:26,000 --> 00:02:28,000  
+Narrador
+
+52  
+00:02:28,000 --> 00:02:30,000  
+Ece Naz Batmaz
+
+53  
+00:02:30,000 --> 00:02:32,000  
+Narrador
+
+54  
+00:02:32,000 --> 00:02:34,000  
+Ece Naz Batmaz
+
+55  
+00:02:34,000 --> 00:02:36,000  
+Narrador
+
+56  
+00:02:36,000 --> 00:02:38,000  
+Ece Naz Batmaz
+
+57  
+00:02:38,000 --> 00:02:40,000  
+Narrador
+
+58  
+00:02:40,000 --> 00:02:42,000  
+Ece Naz Batmaz
+
+59  
+00:02:42,000 --> 00:02:44,000  
+Narrador
+
+60  
+00:02:44,000 --> 00:02:46,000  
+Ece Naz Batmaz
+
+61  
+00:02:46,000 --> 00:02:48,000  
+Narrador
+
+62  
+00:02:48,000 --> 00:02:50,000  
+Ece Naz Batmaz
+
+63  
+00:02:50,000 --> 00:02:52,000  
+Narrador
+
+64  
+00:02:52,000 --> 00:02:54,000  
+Ece Naz Batmaz
+
+65  
+00:02:54,000 --> 00:02:56,000  
+Narrador
+
+66  
+00:02:56,000 --> 00:02:58,000  
+Ece Naz Batmaz
+
+67  
+00:02:58,000 --> 00:03:00,000  
+Narrador
+
+68  
+00:03:00,000 --> 00:03:02,000  
+Ece Naz Batmaz
+
+69  
+00:03:02,000 --> 00:03:04,000  
+Narrador
+
+70  
+00:03:04,000 --> 00:03:06,000  
+Ece Naz Batmaz
+
+71  
+00:03:06,000 --> 00:03:08,000  
+Narrador
+
+72  
+00:03:08,000 --> 00:03:10,000  
+Ece Naz Batmaz
+
+73  
+00:03:10,000 --> 00:03:12,000  
+Narrador
+
+74  
+00:03:12,000 --> 00:03:14,000  
+Ece Naz Batmaz
+
+75  
+00:03:14,000 --> 00:03:16,000  
+Narrador
+
+76  
+00:03:16,000 --> 00:03:18,000  
+Ece Naz Batmaz
+
+77  
+00:03:18,000 --> 00:03:20,000  
+alongada
+
+78  
+00:03:20,000 --> 00:03:22,000  
+Ece Naz Batmaz
+
+79  
+00:03:22,000 --> 00:03:24,000  
+sons
+
+80  
+00:03:24,000 --> 00:03:26,000  
+responder
+
+81  
+00:03:26,000 --> 00:03:28,000  
+tatear
+
+82  
+00:03:28,000 --> 00:03:30,000  
+Ece Naz Batmaz
+
+83  
+00:03:30,000 --> 00:03:32,000  
+Narrador
+
+84  
+00:03:32,000 --> 00:03:34,000  
+Ece Naz Batmaz
+
+85  
+00:03:34,000 --> 00:03:36,000  
+Ece Naz Batmaz
+
+86  
+00:03:36,000 --> 00:03:38,000  
+Narrador
+
+87  
+00:03:38,000 --> 00:03:40,000  
+estou bem
+
+88  
+00:03:40,000 --> 00:03:42,000  
+estou bem, vamos lá
+
+89  
+00:03:42,000 --> 00:03:44,000  
+está tudo bem?
+
+90  
+00:03:44,000 --> 00:03:46,000  
+sim, com certeza
+
+91  
+00:03:52,000 --> 00:03:54,000  
+abra a boca
+
+92  
+00:04:00,000 --> 00:04:02,000  
+está tudo bem agora?
+
+93  
+00:04:02,000 --> 00:04:04,000  
+huh?
+
+94  
+00:04:04,000 --> 00:04:06,000  
+está tudo bem?
+
+95  
+00:04:06,000 --> 00:04:08,000  
+de repente minha cabeça rodou
+
+96  
+00:04:08,000 --> 00:04:10,000  
+algo aconteceu, não entendi
+
+97  
+00:04:12,000 --> 00:04:14,000  
+já faz um tempo que estou bem, não havia nada mas
+
+98  
+00:04:14,000 --> 00:04:16,000  
+não entendi
+
+99  
+00:04:16,000 --> 00:04:18,000  
+sim, já faz um tempo que coisas assim não aconteciam
+
+100  
+00:04:20,000 --> 00:04:22,000  
+não foi desde que você parou de beber álcool que isso não acontece?
+
+101  
+00:04:24,000 --> 00:04:26,000  
+acredito que deveríamos ligar para um médico amanhã, isso não é normal
+
+102  
+00:04:26,000 --> 00:04:28,000  
+ah, tá bom
+
+103  
+00:04:28,000 --> 00:04:30,000  
+não exagera, você está exagerando as coisas
+
+104  
+00:04:30,000 --> 00:04:32,000  
+tá bom, eu costumo exagerar um pouco
+
+105  
+00:04:32,000 --> 00:04:34,000  
+mas você não está minimizando um pouco demais, está?
+
+106  
+00:04:36,000 --> 00:04:38,000  
+será que posso não ter medo de nada enquanto estiver ao seu lado?
+
+107  
+00:04:42,000 --> 00:04:44,000  
+eu estou com medo, na verdade
+
+108  
+00:04:44,000 --> 00:04:46,000  
+não tenha medo, tá tudo bem
+
+109  
+00:04:48,000 --> 00:04:50,000  
+eu te amo muito, Ferit
+
+110  
+00:04:50,000 --> 00:04:52,000  
+eu me preocupo com você
+
+111  
+00:04:54,000 --> 00:04:56,000  
+eu também te amo muito
+
+112  
+00:04:56,000 --> 00:04:58,000  
+ainda bem que você existe
+
+113  
+00:04:58,000 --> 00:05:00,000  
+você também
+
+114  
+00:05:02,000 --> 00:05:04,000  
+ah
+
+115  
+00:05:04,000 --> 00:05:06,000  
+de acordo com o número 8
+
+116  
+00:05:06,000 --> 00:05:08,000  
+Ferit
+
+117  
+00:05:10,000 --> 00:05:12,000  
+mas por que você fez isso, por Deus?
+
+118  
+00:05:12,000 --> 00:05:14,000  
+e se realmente acontecesse alguma coisa com sua mão?
+
+119  
+00:05:14,000 --> 00:05:16,000  
+você não deveria ter desenhado, por exemplo
+
+120  
+00:05:16,000 --> 00:05:18,000  
+você pensa nessas coisas?
+
+121  
+00:05:20,000 --> 00:05:22,000  
+tá bom, você está usando a mão direita
+
+122  
+00:05:24,000 --> 00:05:26,000  
+está tudo bem?
+
+123  
+00:05:26,000 --> 00:05:28,000  
+estou bem?
+
+124  
+00:05:28,000 --> 00:05:30,000  
+vamos lá
+
+125  
+00:05:30,000 --> 00:05:32,000  
+vamos
+
+126  
+00:05:34,000 --> 00:05:36,000  
+tá bom
+
+127  
+00:05:52,000 --> 00:05:54,000  
+o que aconteceu com você?
+
+128  
+00:05:56,000 --> 00:05:58,000  
+nada, só não sei
+
+129  
+00:05:58,000 --> 00:06:00,000  
+talvez eu esteja com falta de ar de novo
+
+130  
+00:06:00,000 --> 00:06:02,000  
+uau
+
+131  
+00:06:02,000 --> 00:06:04,000  
+não acontecia há quanto tempo?
+
+132  
+00:06:04,000 --> 00:06:06,000  
+sim, não acontecia, mas, Sinan, acho que
+
+133  
+00:06:06,000 --> 00:06:08,000  
+não sei, minha mãe e meu pai
+
+134  
+00:06:08,000 --> 00:06:10,000  
+com tudo isso em Istambul e tal
+
+135  
+00:06:10,000 --> 00:06:12,000  
+e tudo ficou mais intenso
+
+136  
+00:06:12,000 --> 00:06:14,000  
+aqueles ali são os senhores Sinan, certo?
+
+137  
+00:06:14,000 --> 00:06:16,000  
+venham, venham
+
+138  
+00:06:16,000 --> 00:06:18,000  
+vamos passar por aqui
+
+139  
+00:06:18,000 --> 00:06:20,000  
+eles não vão perceber, fique tranquilo
+
+140  
+00:06:20,000 --> 00:06:22,000  
+não, eles devem perceber
+
+141  
+00:06:22,000 --> 00:06:24,000  
+o que pode acontecer, eu já tirei a mão
+
+142  
+00:06:24,000 --> 00:06:26,000  
+não deixe eles verem
+
+143  
+00:06:26,000 --> 00:06:28,000  
+sério
+
+144  
+00:06:28,000 --> 00:06:30,000  
+desde o primeiro dia vamos sair na revista?
+
+145  
+00:06:30,000 --> 00:06:32,000  
+temos algo a esconder de alguém?
+
+146  
+00:06:32,000 --> 00:06:34,000  
+vamos
+
+147  
+00:06:34,000 --> 00:06:36,000  
+até logo
+
+148  
+00:06:36,000 --> 00:06:38,000  
+então
+
+149  
+00:06:38,000 --> 00:06:40,000  
+Seyran Hanım
+
+150  
+00:06:40,000 --> 00:06:42,000  
+Olá, Sinan Bey, você veio visitar?
+
+151  
+00:06:42,000 --> 00:06:44,000  
+ou você retornou definitivamente?
+
+152  
+00:06:44,000 --> 00:06:46,000  
+quer dizer alguma coisa?
+
+153  
+00:06:46,000 --> 00:06:48,000  
+Sinan Bey, você veio visitar ou
+
+154  
+00:06:48,000 --> 00:06:50,000  
+definitivamente?
+
+155  
+00:06:50,000 --> 00:06:52,000  
+Por Deus, se não vamos nos sentar, vamos sair daqui
+
+156  
+00:06:52,000 --> 00:06:54,000  
+estou me sentindo sufocado, o que estamos fazendo aqui
+
+157  
+00:06:54,000 --> 00:06:56,000  
+o que estamos procurando, eu não entendo
+
+158  
+00:06:56,000 --> 00:06:58,000  
+encontramos
+
+159  
+00:06:58,000 --> 00:07:00,000  
+o que encontramos, desculpe
+
+160  
+00:07:00,000 --> 00:07:02,000  
+um presente de casamento que você vai dar
+
+161  
+00:07:02,000 --> 00:07:04,000  
+conseguiu
+
+162  
+00:07:04,000 --> 00:07:06,000  
+conseguiu, querido
+
+163  
+00:07:06,000 --> 00:07:08,000  
+deixe-me pegar o que estiver no caminho
+
+164  
+00:07:08,000 --> 00:07:10,000  
+anda, anda
+
+165  
+00:07:10,000 --> 00:07:12,000  
+tá
+
+166  
+00:07:12,000 --> 00:07:14,000  
+vamos nos sentar em algum lugar
+
+167  
+00:07:14,000 --> 00:07:16,000  
+Merit, espera, um minuto
+
+168  
+00:07:16,000 --> 00:07:18,000  
+tá bom, vamos conversar
+
+169  
+00:07:18,000 --> 00:07:20,000  
+comece
+
+170  
+00:07:20,000 --> 00:07:22,000  
+por que você não quer ir ao casamento?
+
+171  
+00:07:22,000 --> 00:07:24,000  
+não é por causa da Seyran?
+
+172  
+00:07:24,000 --> 00:07:26,000  
+o que a Seyran tem a ver com isso?
+
+173  
+00:07:26,000 --> 00:07:28,000  
+Seyran? Já faz dois anos, já acabou
+
+174  
+00:07:28,000 --> 00:07:30,000  
+ok, e agora?
+
+175  
+00:07:30,000 --> 00:07:32,000  
+o que está acontecendo com você?
+
+176  
+00:07:32,000 --> 00:07:34,000  
+por que você está tão sensível desde esta manhã?
+
+177  
+00:07:34,000 --> 00:07:36,000  
+por que você está tão nervoso, Ferit, diga
+
+178  
+00:07:36,000 --> 00:07:38,000  
+não, eu não estou nervoso, eu estou contando
+
+179  
+00:07:38,000 --> 00:07:40,000  
+estou contando, você não está ouvindo
+
+180  
+00:07:40,000 --> 00:07:42,000  
+tudo bem, não tem nada a ver com a Seyran 
+
+181  
+00:07:42,000 --> 00:07:44,000  
+tá bom
+
+182  
+00:07:44,000 --> 00:07:46,000  
+se não tem nada a ver com a Seyran, prove
+
+183  
+00:07:46,000 --> 00:07:48,000  
+prova que não tem nada a ver e vá ao casamento
+
+184  
+00:07:48,000 --> 00:07:50,000  
+não tenha medo do Sinan ou da Seyran
+
+185  
+00:07:50,000 --> 00:07:52,000  
+mostre a todos que você não tem medo de ninguém
+
+186  
+00:07:52,000 --> 00:07:54,000  
+Ferit, olha
+
+187  
+00:07:54,000 --> 00:07:56,000  
+eu não tenho a intenção de mostrar nada a ninguém
+
+188  
+00:07:56,000 --> 00:07:58,000  
+o que vier de dentro de mim
+
+189  
+00:08:00,000 --> 00:08:02,000  
+eu faço
+
+190  
+00:08:02,000 --> 00:08:04,000  
+graças a Deus
+
+191  
+00:08:04,000 --> 00:08:06,000  
+não tenho medo da Seyran nem do futuro marido dela
+
+192  
+00:08:06,000 --> 00:08:08,000  
+como em qualquer relacionamento, o nosso teve um fim
+
+193  
+00:08:08,000 --> 00:08:10,000  
+eu apenas não consigo superar o que Abidin fez para mim
+
+194  
+00:08:10,000 --> 00:08:12,000  
+e você está aqui, tentando me dar um relógio
+
+195  
+00:08:12,000 --> 00:08:14,000  
+você está brincando
+
+196  
+00:08:14,000 --> 00:08:16,000  
+o que isso está fazendo aqui?
+
+197  
+00:08:16,000 --> 00:08:18,000  
+você ainda não se acostumou com isso
+
+198  
+00:08:18,000 --> 00:08:20,000  
+tem a ver com o amor, querida
+
+199  
+00:08:20,000 --> 00:08:22,000  
+eu não gosto
+
+200  
+00:08:22,000 --> 00:08:24,000  
+olhe para mim
+
+201  
+00:08:24,000 --> 00:08:26,000  
+você não vai pegar o presente?
+
+202  
+00:08:26,000 --> 00:08:28,000  
+não vou pegar
+
+203  
+00:08:28,000 --> 00:08:30,000  
+tá bom, vamos
+
+204  
+00:08:30,000 --> 00:08:32,000  
+tá
+
+205  
+00:08:34,000 --> 00:08:36,000  
+você não vai parar
+
+206  
+00:08:42,000 --> 00:08:44,000  
+por favor, olhe
+
+207  
+00:08:44,000 --> 00:08:46,000  
+posso explicar?
+
+208  
+00:08:46,000 --> 00:08:48,000  
+você está segurando as fotos
+
+209  
+00:08:48,000 --> 00:08:50,000  
+o que fizer, não deixe as fotos caírem
+
+210  
+00:08:50,000 --> 00:08:52,000  
+por favor, olhe
+
+211  
+00:08:52,000 --> 00:08:54,000  
+não, não, minha mãe vai descobrir
+
+212  
+00:08:54,000 --> 00:08:56,000  
+onde vamos encontrar, não precisa
+
+213  
+00:08:56,000 --> 00:08:58,000  
+você saiu com a garota, não é?
+
+214  
+00:08:58,000 --> 00:09:00,000  
+não precisa
+
+215  
+00:09:00,000 --> 00:09:02,000  
+te amo, tá bom
+
+216  
+00:09:02,000 --> 00:09:04,000  
+até logo
+
+217  
+00:09:04,000 --> 00:09:06,000  
+com quem você estava falando?
+
+218  
+00:09:06,000 --> 00:09:08,000  
+ninguém, ah, minha mãe
+
+219  
+00:09:08,000 --> 00:09:10,000  
+minha mãe ficou brava comigo, não ficou?
+
+220  
+00:09:10,000 --> 00:09:12,000  
+não sei, ainda não estava satisfeito
+
+221  
+00:09:12,000 --> 00:09:14,000  
+disse que eu roubei seu filho
+
+222  
+00:09:14,000 --> 00:09:16,000  
+imagina, amor
+
+223  
+00:09:16,000 --> 00:09:18,000  
+está dizendo olá depois
+
+224  
+00:09:18,000 --> 00:09:20,000  
+tá bom
+
+225  
+00:09:32,000 --> 00:09:34,000  
+ligue para o telefone, por favor
+
+226  
+00:09:34,000 --> 00:09:36,000  
+não atende, né?
+
+227  
+00:09:36,000 --> 00:09:38,000  
+você está dando muita confiança a esse garoto
+
+228  
+00:09:38,000 --> 00:09:40,000  
+você está pensando que não é mais sequela
+
+229  
+00:09:40,000 --> 00:09:42,000  
+devo deixá-lo um pouco
+
+230  
+00:09:42,000 --> 00:09:44,000  
+tia, por favor
+
+231  
+00:09:44,000 --> 00:09:46,000  
+não fale bobagens
+
+232  
+00:09:46,000 --> 00:09:48,000  
+todas as responsabilidades estão nas mãos do Ferit
+
+233  
+00:09:48,000 --> 00:09:50,000  
+ele precisa estar bem
+
+234  
+00:09:50,000 --> 00:09:52,000  
+um homem
+
+235  
+00:09:52,000 --> 00:09:54,000  
+vivendo como um carrapato nas costas dele 
+
+236  
+00:09:54,000 --> 00:09:56,000  
+tem o mesmo reflexo ou é uma opção, tia? 
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,524 @@
+2128
+02:00:00,000 --> 02:00:15,000
+Merhaba.
+
+2129
+02:00:15,040 --> 02:00:19,680
+Seyran, hoş geldin. Güzel Seyran geldi, hoş geldin.
+
+2130
+02:00:19,720 --> 02:00:21,120
+Hoş buldum.
+
+2131
+02:00:21,160 --> 02:00:24,560
+Ferit yok mu?
+
+2132
+02:00:24,600 --> 02:00:27,000
+Gelir gelir, o da gelir. Sen geldin o da gelir.
+
+2133
+02:00:27,000 --> 02:00:32,360
+Otur, otur.
+
+2134
+02:00:32,400 --> 02:00:49,720
+Oldu, oldu şimdi oldu.
+
+2135
+02:00:49,760 --> 02:00:51,560
+Ne oldu?
+
+2136
+02:00:51,600 --> 02:00:55,160
+Sana bakarak çizsin. Gerçek Seyran'a baksın, güzel Seyran'a baksın.
+
+2137
+02:00:55,560 --> 02:00:57,560
+Resimlere bakmasın artık, sana baksın.
+
+2138
+02:00:57,600 --> 02:01:01,280
+Resim derken?
+
+2139
+02:01:01,320 --> 02:01:07,320
+Gel, gel.
+
+2140
+02:01:25,160 --> 02:01:50,120
+Seyran?
+
+2141
+02:01:50,600 --> 02:01:54,280
+Ferit abi geldi, geldi. Bak Seyran da burada, geldi o da geldi.
+
+2142
+02:01:54,320 --> 02:01:57,520
+Erkencisin.
+
+2143
+02:01:57,560 --> 02:02:12,440
+Senin de iyileştiğin yer burası demek.
+
+2144
+02:02:12,480 --> 02:02:13,480
+Ha?
+
+2145
+02:02:13,520 --> 02:02:15,600
+Hiç öyle.
+
+2146
+02:02:15,640 --> 02:02:18,440
+Böyle dalmışım, bir şey yok.
+
+2147
+02:02:19,440 --> 02:02:22,600
+Sağ ol Memo.
+
+2148
+02:02:22,640 --> 02:02:29,440
+Ee Memo'cuğum, ne eksik burada? Hem Seyran ablan da geldi, bir şey unuttun sanki.
+
+2149
+02:02:29,480 --> 02:02:33,240
+Ne unuttum? Ne unuttum Memo? Bir şey unutmadı mı?
+
+2150
+02:02:33,280 --> 02:02:36,040
+Ne unuttun?
+
+2151
+02:02:36,079 --> 02:02:42,480
+Çay, çay unuttum. Çay çek Memo, çay çek Memo.
+
+2152
+02:02:42,520 --> 02:02:44,200
+Öyle.
+
+2153
+02:02:44,240 --> 02:02:48,000
+Oturalım mı? Yaz.
+
+2154
+02:02:48,000 --> 02:03:05,320
+Ne kadar huzurlu burası ya.
+
+2155
+02:03:05,360 --> 02:03:09,720
+İnsana burada ne ilhamlar gelir var ya.
+
+2156
+02:03:09,760 --> 02:03:10,800
+Sorma.
+
+2157
+02:03:10,840 --> 02:03:14,520
+Bana da ne ilhamlar geliyor, ne ilhamlar.
+
+2158
+02:03:14,560 --> 02:03:17,040
+Gelir gelir, merak etme.
+
+2159
+02:03:18,040 --> 02:03:23,640
+Kayınvalidenin evinde de geliyor mu o ilhamlar?
+
+2160
+02:03:23,680 --> 02:03:24,840
+Ne?
+
+2161
+02:03:24,880 --> 02:03:27,840
+Oraya taşınmışsın.
+
+2162
+02:03:27,880 --> 02:03:29,000
+Ee sen...
+
+2163
+02:03:29,040 --> 02:03:30,880
+Hazal söyledi.
+
+2164
+02:03:30,920 --> 02:03:33,440
+Hazal ne alaka ya?
+
+2165
+02:03:33,480 --> 02:03:36,480
+Aynı spor salonuna geliyormuş, oradan.
+
+2166
+02:03:36,519 --> 02:03:41,160
+Spor yapmaya mı, dedikodu yapmaya mı geliyormuş?
+
+2167
+02:03:41,200 --> 02:03:44,040
+Hazal'a bak sen ya.
+
+2168
+02:03:47,040 --> 02:04:06,280
+Çok sevmişsin o yalıya. Neden tutmadın?
+
+2169
+02:04:06,280 --> 02:04:15,360
+Sinan'ın içine sinmemiş.
+
+2170
+02:04:15,400 --> 02:04:21,560
+Şşt.
+
+2171
+02:04:21,600 --> 02:04:25,120
+Söyle söyle.
+
+2172
+02:04:25,160 --> 02:04:29,360
+Neden asla yapmam dediğin bir şey yaptın?
+
+2173
+02:04:29,360 --> 02:04:41,680
+Ayla Hanım, hasta, o yüzden yalnız bırakmak istemiyor Sinan'da annesini tabi.
+
+2174
+02:04:41,720 --> 02:04:44,200
+Ha, şöyle.
+
+2175
+02:04:44,240 --> 02:04:47,280
+Bak, seyrencen çok da pasta almamış.
+
+2176
+02:04:47,320 --> 02:04:49,680
+Başardın yine, aferin.
+
+2177
+02:04:49,720 --> 02:04:51,200
+Neyi?
+
+2178
+02:04:51,240 --> 02:04:53,600
+Aklından geçenleri okumayı.
+
+2179
+02:04:53,640 --> 02:04:58,200
+Ben de boş değilim yani, biliyorsun.
+
+2180
+02:04:58,200 --> 02:05:06,840
+Şimdi ne geçiyor peki aklından?
+
+2181
+02:05:06,880 --> 02:05:14,599
+Korkuyorsun.
+
+2182
+02:05:14,640 --> 02:05:23,800
+Tabii korkuyorum. Hem de nasıl korkuyorum.
+
+2183
+02:05:24,800 --> 02:05:31,600
+Neden evlendiğim adam bana dokunursa, seni ağda çakmışım gibi hissediyorum ben.
+
+2184
+02:05:31,640 --> 02:05:34,000
+Seyren.
+
+2185
+02:05:34,040 --> 02:05:39,360
+Gerçekten mutlu musun?
+
+2186
+02:05:39,400 --> 02:05:48,320
+Evet, mutluyum.
+
+2187
+02:05:48,360 --> 02:05:51,840
+Neden mi bekliyordun Ferit Korhan?
+
+2188
+02:05:52,840 --> 02:05:54,600
+Yalancı.
+
+2189
+02:05:54,640 --> 02:05:56,680
+Ulan ben yer miyim bunları?
+
+2190
+02:05:56,720 --> 02:05:58,640
+Sevin.
+
+2191
+02:05:58,680 --> 02:06:02,640
+Yani mutlu olmana sevin.
+
+2192
+02:06:02,680 --> 02:06:04,680
+Sen?
+
+2193
+02:06:04,720 --> 02:06:11,920
+Hayır, değilim ama sen evet mutluyum dedikten sonra mutsuzun der miyim ulan ben?
+
+2194
+02:06:11,960 --> 02:06:15,520
+Ben hani iyiyim ya.
+
+2195
+02:06:15,560 --> 02:06:17,920
+Bildiğin gibi işte.
+
+2196
+02:06:17,960 --> 02:06:19,760
+Okey mi yani?
+
+2197
+02:06:19,960 --> 02:06:24,760
+Evli değilim, kafam rahat filan.
+
+2198
+02:06:24,800 --> 02:06:27,000
+Hı hı, tabii tabii.
+
+2199
+02:06:27,039 --> 02:06:32,719
+O yüzden hâlâ resmime bakıyorsun değil mi?
+
+2200
+02:06:32,760 --> 02:06:35,520
+Süper o zaman.
+
+2201
+02:06:35,560 --> 02:06:38,840
+Sen iyi, ben iyi.
+
+2202
+02:06:38,880 --> 02:06:41,400
+Gayet iyiyiz.
+
+2203
+02:06:41,440 --> 02:06:47,960
+Eşedığımız onca şeyden sonra mutlu olmayı başarmışız demek ki.
+
+2204
+02:06:48,000 --> 02:06:49,360
+Ne demezsin?
+
+2205
+02:06:49,400 --> 02:06:52,640
+Hem de çok iyiyiz, çok.
+
+2206
+02:07:05,160 --> 02:07:07,480
+Çaylar geldi, geldi çaylar.
+
+2207
+02:07:07,520 --> 02:07:09,640
+Simit de aldım sıcak sıcak.
+
+2208
+02:07:13,680 --> 02:07:15,160
+Gideyim ben.
+
+2209
+02:07:17,960 --> 02:07:24,240
+Gitti, gitti güzel seyren gitti, ne oldu?
+
+2210
+02:07:47,960 --> 02:07:50,040
+Ne oluyor lan bize?
+
+2211
+02:07:52,080 --> 02:07:53,480
+Ne oluyor bize?
+
+2212
+02:07:53,520 --> 02:07:54,880
+Alo.
+
+2213
+02:07:54,920 --> 02:07:57,080
+Sinan nasılsın?
+
+2214
+02:07:57,120 --> 02:07:58,880
+İyiyim ben de.
+
+2215
+02:07:58,920 --> 02:08:04,040
+Ben görüyorum ki bu akşam annenin ayarladığı otele gidelim baş başa.
+
+2216
+02:08:05,480 --> 02:08:09,000
+Heyecanlanmana gerek yok Sinan, biz evliyiz.
+
+2217
+02:08:09,040 --> 02:08:10,600
+Tamam.
+
+2218
+02:08:10,640 --> 02:08:12,040
+Hı hı.
+
+2219
+02:08:12,480 --> 02:08:15,000
+Ya baba ya niye bu adam hâlâ mesaj atmıyor?
+
+2220
+02:08:15,040 --> 02:08:17,200
+Ne bileyim kızım ne bileyim yahu?
+
+2221
+02:08:17,240 --> 02:08:21,000
+Demek ki bu devletin yurduysa, aha bu da devlet sırrı.
+
+2222
+02:08:21,040 --> 02:08:22,280
+Hı hı.
+
+2223
+02:08:22,320 --> 02:08:23,560
+Hı hı.
+
+2224
+02:08:23,600 --> 02:08:25,000
+Hı hı.
+
+2225
+02:08:25,040 --> 02:08:26,280
+Hı hı.
+
+2226
+02:08:26,320 --> 02:08:27,520
+Hı hı.
+
+2227
+02:08:27,560 --> 02:08:29,000
+Hı hı.
+
+2228
+02:08:29,040 --> 02:08:30,440
+Hı hı.
+
+2229
+02:08:30,480 --> 02:08:31,960
+Hı hı.
+
+2230
+02:08:32,000 --> 02:08:34,000
+Hı hı.
+
+2231
+02:08:34,039 --> 02:08:35,520
+Hı hı.
+
+2232
+02:08:35,560 --> 02:08:37,520
+Hı hı.
+
+2233
+02:08:37,560 --> 02:08:39,520
+Hı hı.
+
+2234
+02:08:39,560 --> 02:08:41,520
+Hı hı.
+
+2235
+02:08:41,520 --> 02:08:43,079
+Bu ne sırrı ha?
+
+2236
+02:08:43,120 --> 02:08:45,079
+Az sabret yahu.
+
+2237
+02:08:45,120 --> 02:08:47,800
+Ne konuşuyorsunuz siz fısır fısır?
+
+2238
+02:08:47,840 --> 02:08:49,520
+Esma Hatun.
+
+2239
+02:08:49,560 --> 02:08:51,160
+Hayırdır yahu elin boş geliyin?
+
+2240
+02:08:51,199 --> 02:08:52,000
+Yani kayfem nerede?
+
+2241
+02:08:52,040 --> 02:08:55,120
+Şuna, hadi kızım babana bir kahve yap.
+
+2242
+02:08:55,160 --> 02:08:56,480
+Olmaz.
+
+2243
+02:08:56,520 --> 02:08:57,800
+Olmaz yahu.
+
+2244
+02:08:57,840 --> 02:08:59,920
+İstemeyin, gönüllü de hele.
+
+2245
+02:08:59,960 --> 02:09:01,920
+Ben gönülsüz içsemeyim.
+
+2246
+02:09:01,960 --> 02:09:05,199
+Esma kızım canım.
+
+2247
+02:09:05,240 --> 02:09:06,880
+Kayfeyi sen yapar mısın bana?
+
+2248
+02:09:06,920 --> 02:09:10,600
+He ben babamın böyle diyeceğini tahmin ettiğim için hemen atladım.
+
+2249
+02:09:10,640 --> 02:09:12,480
+Bir kahveyi sen yap annem yahu.
+
+2250
+02:09:12,520 --> 02:09:13,600
+Hadi.
+
+2251
+02:09:13,640 --> 02:09:14,840
+Allah Allah.
+
+2252
+02:09:14,880 --> 02:09:17,600
+İyi madem.
+
+2253
+02:09:17,640 --> 02:09:19,880
+Sağ ol annem.
+
+2254
+02:09:19,920 --> 02:09:22,480
+Kuz.
+
+2255
+02:09:22,520 --> 02:09:24,720
+Aç aç aç.
+
+2256
+02:09:36,760 --> 02:09:38,720
+Ah.
+
+2257
+02:09:40,760 --> 02:09:43,240
+Sen bunu biliyor muydun?
+
+2258
+02:09:43,280 --> 02:09:45,280
+Yok baba bilmiyordum.
+

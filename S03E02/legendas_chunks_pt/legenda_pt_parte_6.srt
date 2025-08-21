@@ -1,0 +1,523 @@
+Sure! Here’s the translation into Portuguese while maintaining the SRT format:
+
+```srt
+1
+00:00:00,000 --> 00:00:21,000
+Bak, prepare meu dinheiro até amanhã, não estou brincando.
+
+2
+00:00:30,000 --> 00:00:41,000
+Está bem, dissemos a Şevke, não se aproxime de mim assim de novo, eu vou trazer.
+
+3
+00:00:41,000 --> 00:00:42,000
+Suna?
+
+4
+00:00:42,000 --> 00:00:44,000
+Com quem você está conversando?
+
+5
+00:00:44,000 --> 00:00:52,000
+É a Seyran, ela me mandou uma mensagem e eu decidi responder.
+
+6
+00:00:52,000 --> 00:00:55,000
+O que ela está dizendo a esta hora da noite?
+
+7
+00:00:55,000 --> 00:01:05,000
+Querido, é algo especial entre meninas, você vai perguntar tudo assim?
+
+8
+00:01:05,000 --> 00:01:10,000
+Não vou perguntar, você vai me contar.
+
+9
+00:01:10,000 --> 00:01:14,000
+Mãe, vou dormir, boa noite.
+
+10
+00:01:14,000 --> 00:01:18,000
+Seyran, Seyran, vem aqui e senta um pouco.
+
+11
+00:01:18,000 --> 00:01:20,000
+O que aconteceu?
+
+12
+00:01:20,000 --> 00:01:24,000
+Vem, vamos conversar um pouco.
+
+13
+00:01:24,000 --> 00:01:32,000
+Mãe, o que vamos conversar, não estamos muito cansadas?
+
+14
+00:01:32,000 --> 00:01:34,000
+Sentem-se.
+
+15
+00:01:34,000 --> 00:01:36,000
+Seyran.
+
+16
+00:01:36,000 --> 00:01:38,000
+Sim, mãe.
+
+17
+00:01:38,000 --> 00:01:41,000
+O que estava acontecendo com você esta noite?
+
+18
+00:01:41,000 --> 00:01:44,000
+Ai mãe, por favor, não comece.
+
+19
+00:01:44,000 --> 00:01:47,000
+O Sinan também começou, não é mesmo?
+
+20
+00:01:47,000 --> 00:01:49,000
+Ele está certo, coitado.
+
+21
+00:01:49,000 --> 00:01:52,000
+Você viu o Ferit, ele ficou fora de controle.
+
+22
+00:01:52,000 --> 00:01:55,000
+Nada de errado aconteceu, mãe.
+
+23
+00:01:55,000 --> 00:01:59,000
+Eu estava apenas feliz porque minha irmã vai se casar, só isso.
+
+24
+00:01:59,000 --> 00:02:07,000
+Ou você estava fazendo um show para não mostrar como se sente, não é?
+
+25
+00:02:07,000 --> 00:02:12,000
+Eu não estava fazendo show nenhum.
+
+26
+00:02:12,000 --> 00:02:22,000
+Filha, eu posso perceber como seu coração bate pelos seus olhos, Seyran.
+
+27
+00:02:22,000 --> 00:02:28,000
+Está certo, eu também quero que você se case com o Sinan, que possa ter uma família feliz, mas...
+
+28
+00:02:28,000 --> 00:02:34,000
+...se houver a menor dúvida, não faça, Seyran, não faça.
+
+29
+00:02:34,000 --> 00:02:38,000
+Seria uma pena para você e uma pena para ele também.
+
+30
+00:02:38,000 --> 00:02:41,000
+Pois ele é filho de uma mãe, não é?
+
+31
+00:02:45,000 --> 00:02:51,000
+Querida, eu nunca magoei o Sinan até agora.
+
+32
+00:02:51,000 --> 00:02:53,000
+E não vou machucá-lo.
+
+33
+00:02:54,000 --> 00:02:59,000
+Além disso, se ele é filho de uma mãe, eu sou filha de uma boa mãe como você.
+
+34
+00:02:59,000 --> 00:03:01,000
+Uau.
+
+35
+00:03:03,000 --> 00:03:05,000
+Mãe, sou eu.
+
+36
+00:03:05,000 --> 00:03:08,000
+Vou realmente dormir agora, mas mãe, estamos muito cansadas.
+
+37
+00:03:08,000 --> 00:03:09,000
+Boa noite.
+
+38
+00:03:09,000 --> 00:03:11,000
+Boa noite.
+
+39
+00:03:12,000 --> 00:03:14,000
+Que Deus te dá conforto.
+
+40
+00:03:14,000 --> 00:03:16,000
+Para você também.
+
+41
+00:03:35,000 --> 00:03:37,000
+Sinan.
+
+42
+00:03:38,000 --> 00:03:40,000
+Mãe.
+
+43
+00:03:49,000 --> 00:03:51,000
+Você me assustou.
+
+44
+00:03:51,000 --> 00:03:54,000
+Sim, meu filho, um por um, você me assustou primeiro.
+
+45
+00:03:54,000 --> 00:03:58,000
+Você não está respondendo minhas mensagens o dia todo, cheio de mentiras.
+
+46
+00:03:58,000 --> 00:04:01,000
+Você não sabe o que estou sentindo aqui?
+
+47
+00:04:01,000 --> 00:04:05,000
+Eu te enviei uma mensagem, você não viu?
+
+48
+00:04:05,000 --> 00:04:07,000
+Você foi gentil, foi gentil, sim.
+
+49
+00:04:07,000 --> 00:04:09,000
+Fale comigo.
+
+50
+00:04:09,000 --> 00:04:11,000
+E você?
+
+51
+00:04:11,000 --> 00:04:13,000
+Ayla querida, você não sente minha falta?
+
+52
+00:04:13,000 --> 00:04:16,000
+Sim, sinto muita falta, mas estou me segurando.
+
+53
+00:04:16,000 --> 00:04:18,000
+Por que você está se segurando? Vem, não se segure.
+
+54
+00:04:18,000 --> 00:04:21,000
+Vem, pergunte, por favor, pergunte ao seu filho.
+
+55
+00:04:21,000 --> 00:04:25,000
+Olha, já faz dois meses que não sinto seu cheiro.
+
+56
+00:04:25,000 --> 00:04:27,000
+Minha querida mãe.
+
+57
+00:04:27,000 --> 00:04:29,000
+Mas posso te dizer algo?
+
+58
+00:04:29,000 --> 00:04:31,000
+Juro que eu tinha uma justificativa.
+
+59
+00:04:31,000 --> 00:04:34,000
+Mentir para a mãe não pode ter justificativa.
+
+60
+00:04:34,000 --> 00:04:35,000
+Ainda mais por causa de uma garota.
+
+61
+00:04:35,000 --> 00:04:37,000
+Por que eu mentiria para você por causa de uma garota?
+
+62
+00:04:37,000 --> 00:04:38,000
+Mas você mentiu.
+
+63
+00:04:38,000 --> 00:04:40,000
+Então há duas opções.
+
+64
+00:04:40,000 --> 00:04:44,000
+Ou eu não menti para você ou Seyran não é qualquer garota.
+
+65
+00:04:44,000 --> 00:04:47,000
+E não é, você vai conhecê-la.
+
+66
+00:04:47,000 --> 00:04:49,000
+Qual das opções você gostaria que fosse verdadeira?
+
+67
+00:04:49,000 --> 00:04:51,000
+Dado que está claro que você mentiu.
+
+68
+00:04:51,000 --> 00:04:54,000
+Filho, você não me disse?
+
+69
+00:04:54,000 --> 00:04:56,000
+Que não vale a pena falar sobre essa garota.
+
+70
+00:04:56,000 --> 00:04:58,000
+Estamos apenas nos divertindo e é isso.
+
+71
+00:04:58,000 --> 00:05:00,000
+E então o que aconteceu?
+
+72
+00:05:00,000 --> 00:05:02,000
+As coisas ficaram sérias.
+
+73
+00:05:02,000 --> 00:05:06,000
+E a senhora Seyran não é mais qualquer garota, certo?
+
+74
+00:05:06,000 --> 00:05:12,000
+Olha, minha bela, você acha que o filho da sultana vai se engajar com qualquer garota?
+
+75
+00:05:12,000 --> 00:05:14,000
+Eu não vejo essa possibilidade.
+
+76
+00:05:14,000 --> 00:05:16,000
+Você está errando, mãe.
+
+77
+00:05:16,000 --> 00:05:19,000
+Não me importa quem seja, não me diz respeito.
+
+78
+00:05:19,000 --> 00:05:21,000
+O que importa é que as coisas não fiquem sérias.
+
+79
+00:05:21,000 --> 00:05:25,000
+Olha, se ficar sério, eu vou intervir, então você saiba.
+
+80
+00:05:25,000 --> 00:05:27,000
+Um minuto, um minuto, um minuto.
+
+81
+00:05:29,000 --> 00:05:32,000
+O que você quer dizer com "sério", Ayla?
+
+82
+00:05:32,000 --> 00:05:34,000
+Ah, casamento e tudo isso.
+
+83
+00:05:34,000 --> 00:05:41,000
+Sinan, você estava prestes a perder tudo quando as coisas ficaram realmente sérias.
+
+84
+00:05:41,000 --> 00:05:47,000
+Filho, você não sabe o que eu passei, por favor, não quero viver tudo de novo.
+
+85
+00:05:47,000 --> 00:05:49,000
+Então eu não devo me casar, certo?
+
+86
+00:05:49,000 --> 00:05:51,000
+Ou seja, nunca vou me casar.
+
+87
+00:05:51,000 --> 00:05:56,000
+Não quero que haja Sinans pequenos correndo por esta casa?
+
+88
+00:05:56,000 --> 00:05:57,000
+Você não quer isso?
+
+89
+00:05:57,000 --> 00:05:59,000
+Eu quero isso acima de tudo.
+
+90
+00:05:59,000 --> 00:06:02,000
+Mas quero que seja com a pessoa certa.
+
+91
+00:06:02,000 --> 00:06:05,000
+E onde está a pessoa certa, mamãe Seyran?
+
+92
+00:06:05,000 --> 00:06:08,000
+Você realmente não está me fazendo rir, por favor.
+
+93
+00:06:08,000 --> 00:06:15,000
+Então essa garota não saiu e expôs seu marido e sua família na frente de todo o país? O que ela disse?
+
+94
+00:06:15,000 --> 00:06:17,000
+É essa a garota certa?
+
+95
+00:06:17,000 --> 00:06:19,000
+Essa é a garota honesta e confiável?
+
+96
+00:06:19,000 --> 00:06:22,000
+Essa é a garota que você deixaria para seus filhos, hein?
+
+97
+00:06:22,000 --> 00:06:25,000
+Não, não, meu querido Sinan, a pessoa certa não é assim.
+
+98
+00:06:25,000 --> 00:06:32,000
+Essa é apenas uma oportunista, atrás de fama e prestígio, não é nada mais.
+
+99
+00:06:32,000 --> 00:06:34,000
+Olha, tudo bem, não me faça falar mais.
+
+100
+00:06:34,000 --> 00:06:37,000
+Olha, estou ficando irritada, estou falando sério.
+
+101
+00:06:37,000 --> 00:06:39,000
+Está bem, mamãe, me ouça.
+
+102
+00:06:39,000 --> 00:06:47,000
+O que estou dizendo é que a menina passou por muita coisa, não devemos subestimar, pelo que ela está vivendo, mesmo sendo tão nova.
+
+103
+00:06:47,000 --> 00:06:51,000
+Além disso, você não sabe a história dela, você precisa ouvir.
+
+104
+00:06:51,000 --> 00:06:57,000
+Minha querida, a Seyran mudou muito, e de forma extraordinária, nesse meio tempo.
+
+105
+00:06:57,000 --> 00:07:00,000
+Essa garota não tem como me fazer mal.
+
+106
+00:07:00,000 --> 00:07:06,000
+Sim, ela pode não te machucar intencionalmente, mas ela vai machucar.
+
+107
+00:07:06,000 --> 00:07:09,000
+Porque isso está no sangue dela, certo? É da natureza dela.
+
+108
+00:07:10,000 --> 00:07:16,000
+Meu filho, essa garota não sei de onde veio, veio para Istambul e então se casou com aquele idiota chamado Ferit.
+
+109
+00:07:16,000 --> 00:07:18,000
+Quem sabe o que ela passou.
+
+110
+00:07:18,000 --> 00:07:24,000
+Esse tipo de pessoa não sei o que ele fez e que revelou tudo na frente de todos.
+
+111
+00:07:24,000 --> 00:07:30,000
+Filho, eu não quero que você seja infeliz, não quero que passe por isso.
+
+112
+00:07:30,000 --> 00:07:33,000
+Não quero segurar meus netos em meus braços?
+
+113
+00:07:34,000 --> 00:07:41,000
+Querida, estou cansado, podemos conversar amanhã?
+
+114
+00:07:41,000 --> 00:07:47,000
+Meu amado, amanhã falaremos sobre coisas mais bonitas, está bem, meu filho?
+
+115
+00:07:50,000 --> 00:07:54,000
+Querido, você é meu bem mais precioso.
+
+116
+00:07:54,000 --> 00:07:57,000
+Eu protejo você como meu próprio bem mais precioso.
+
+117
+00:07:57,000 --> 00:08:02,000
+Mas dizer a verdade é meu dever como mãe.
+
+118
+00:08:02,000 --> 00:08:07,000
+Mas eu sei que você fará o que for certo.
+
+119
+00:08:11,000 --> 00:08:14,000
+Meu querido, sinto muito a sua falta.
+
+120
+00:08:14,000 --> 00:08:18,000
+Vai, o seu quarto está pronto, vai dormir agora.
+
+121
+00:08:32,000 --> 00:08:34,000
+Meu querido.
+
+122
+00:09:02,000 --> 00:09:04,000
+Meu querido.
+
+123
+00:09:04,000 --> 00:09:07,000
+Meu leão.
+
+124
+00:09:35,000 --> 00:09:37,000
+Sinan.
+
+125
+00:09:37,000 --> 00:09:39,000
+Onde você está?
+
+126
+00:09:41,000 --> 00:09:43,000
+Um minuto, estamos no lugar errado agora.
+
+127
+00:09:44,000 --> 00:09:46,000
+Estamos no lugar errado, Sinan, onde você está?
+
+128
+00:09:46,000 --> 00:09:48,000
+Você não está no lugar errado.
+
+129
+00:09:52,000 --> 00:09:54,000
+Você está no lugar onde deveria estar.
+
+130
+00:09:54,000 --> 00:09:56,000
+Eu também estou buscando.
+```

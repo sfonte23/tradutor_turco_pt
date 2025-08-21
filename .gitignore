@@ -1,0 +1,13 @@
+.env
+*.mp4
+*.mov
+*.mp3
+*.part
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env.*
+

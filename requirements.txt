@@ -1,0 +1,10 @@
+pydub 
+faster-whisper 
+argostranslate
+yt-dlp
+python-dotenv
+openai
+transformers 
+torch 
+sentencepiece
+datasets
