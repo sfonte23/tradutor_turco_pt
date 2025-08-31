@@ -1,0 +1,520 @@
+2134
+02:00:00,000 --> 02:00:01,700
+Kendinden uzaklaştırdığın için mi?
+
+2135
+02:00:05,220 --> 02:00:05,960
+Evet.
+
+2136
+02:00:08,680 --> 02:00:10,280
+Öleceğim sanıyordum Ferit.
+
+2137
+02:00:13,940 --> 02:00:15,440
+Beni öyle gör istemedin.
+
+2138
+02:00:19,160 --> 02:00:20,320
+Gidemezsin ya.
+
+2139
+02:00:22,520 --> 02:00:23,600
+Gidemezsin.
+
+2140
+02:00:30,000 --> 02:00:31,000
+Olmaz.
+
+2141
+02:00:32,280 --> 02:00:33,280
+Esma anne.
+
+2142
+02:00:34,440 --> 02:00:35,440
+Seyran buradan...
+
+2143
+02:00:35,840 --> 02:00:37,280
+...hiçbir yere gitmeyecek.
+
+2144
+02:00:42,720 --> 02:00:45,560
+Bizden olmazsa neden gitmemiştin yüzünü Ferit.
+
+2145
+02:00:48,680 --> 02:00:49,680
+Neden?
+
+2146
+02:00:51,280 --> 02:00:52,280
+Çünkü...
+
+2147
+02:00:52,760 --> 02:00:54,560
+...bizden gitmemişsin.
+
+2148
+02:00:55,320 --> 02:00:56,320
+Neden?
+
+2149
+02:00:57,600 --> 02:00:58,600
+Neden?
+
+2150
+02:01:00,000 --> 02:01:28,780
+["Jenerik Müzik"]
+
+2151
+02:01:30,000 --> 02:01:59,980
+["Jenerik Müzik"]
+
+2152
+02:02:00,000 --> 02:02:26,980
+["Jenerik Müzik"]
+
+2153
+02:02:31,000 --> 02:02:33,000
+Ne yapıyorsun burada?
+
+2154
+02:02:37,000 --> 02:02:38,000
+Gitme.
+
+2155
+02:02:41,000 --> 02:02:42,000
+Niye?
+
+2156
+02:02:47,000 --> 02:02:51,000
+Ben gidince bütün sorunlar çözülecek.
+
+2157
+02:02:52,000 --> 02:02:54,000
+Diğerde de bir sorun yaşamazsınız artık.
+
+2158
+02:02:55,000 --> 02:02:56,000
+Nikahınızı kıyarsınız.
+
+2159
+02:02:57,000 --> 02:02:58,000
+Ya ne nikahı?
+
+2160
+02:02:58,000 --> 02:02:59,000
+Ne nikahı?
+
+2161
+02:02:59,000 --> 02:03:00,000
+Aklım sendeyken ya.
+
+2162
+02:03:01,000 --> 02:03:02,000
+Neden aklım bende Ferit?
+
+2163
+02:03:03,000 --> 02:03:04,000
+Hı?
+
+2164
+02:03:05,000 --> 02:03:06,000
+Neden?
+
+2165
+02:03:08,000 --> 02:03:10,000
+Ya bana dürüst bir cevap ver.
+
+2166
+02:03:11,000 --> 02:03:12,000
+Kalayım.
+
+2167
+02:03:13,000 --> 02:03:14,000
+Neden?
+
+2168
+02:03:24,000 --> 02:03:25,000
+Ya niye susuyorsun Ferit?
+
+2169
+02:03:26,000 --> 02:03:27,000
+Söyle artık işte söyle.
+
+2170
+02:03:28,000 --> 02:03:29,000
+Gitme.
+
+2171
+02:03:35,000 --> 02:03:36,000
+Gitme.
+
+2172
+02:03:58,000 --> 02:03:59,000
+Yaklaş Ferit.
+
+2173
+02:04:01,000 --> 02:04:03,000
+Aynaya yaklaş.
+
+2174
+02:04:05,000 --> 02:04:07,000
+Aynada gördüğün ise...
+
+2175
+02:04:09,000 --> 02:04:11,000
+...senden olandır.
+
+2176
+02:04:29,000 --> 02:04:32,000
+Başka bir şey söylemeyeceksen ben uyuyacağım.
+
+2177
+02:04:36,000 --> 02:04:37,000
+Yok.
+
+2178
+02:04:40,000 --> 02:04:41,000
+İyi.
+
+2179
+02:04:58,000 --> 02:05:27,000
+["Jenerik Müzik"]
+
+2180
+02:05:29,000 --> 02:05:31,000
+Orhan, abinin yoldadır. Ne yapacağız?
+
+2181
+02:05:33,000 --> 02:05:34,000
+Nasıl Betül?
+
+2182
+02:05:34,000 --> 02:05:35,000
+İyi Orhan Bey, uyanmış.
+
+2183
+02:05:38,000 --> 02:05:40,000
+Hay Allah ya ama böyle olmaz.
+
+2184
+02:05:41,000 --> 02:05:42,000
+Doktora gitmek istemiyor.
+
+2185
+02:05:43,000 --> 02:05:44,000
+Ben doktoru eve getireceğim.
+
+2186
+02:05:45,000 --> 02:05:46,000
+Hangi eve Orhan?
+
+2187
+02:05:46,000 --> 02:05:48,000
+Alo, ev gidiyor, gidiyor.
+
+2188
+02:05:48,000 --> 02:05:50,000
+Betül'lerin evi müsaitse oraya gidelim.
+
+2189
+02:05:51,000 --> 02:05:53,000
+Başımızı sokacak bir ev kalmayacak yakında.
+
+2190
+02:05:53,000 --> 02:05:55,000
+Ya ne diyorsun ifakat ya?
+
+2191
+02:05:55,000 --> 02:05:57,000
+Seheran hallederim dedi, ben ona güveniyorum.
+
+2192
+02:05:59,000 --> 02:06:01,000
+Hadi bir bırak beni Allah aşkına ya.
+
+2193
+02:06:04,000 --> 02:06:05,000
+Ah.
+
+2194
+02:06:06,000 --> 02:06:07,000
+Ne var Orhan?
+
+2195
+02:06:07,000 --> 02:06:10,000
+Merak ediyorsan hâlâ aynı fikirdeyim. Seni görmek istemiyorum.
+
+2196
+02:06:13,000 --> 02:06:15,000
+Ama ben aynı fikirde değilim.
+
+2197
+02:06:17,000 --> 02:06:18,000
+Bütün gece düşündüm.
+
+2198
+02:06:20,000 --> 02:06:21,000
+Özür dilerim.
+
+2199
+02:06:22,000 --> 02:06:25,000
+Sana bu sözleşmeyi hazırlattığım için çok özür dilerim.
+
+2200
+02:06:26,000 --> 02:06:27,000
+Affet beni lütfen.
+
+2201
+02:06:28,000 --> 02:06:29,000
+Tamam.
+
+2202
+02:06:36,000 --> 02:06:37,000
+Peki, babam?
+
+2203
+02:06:38,000 --> 02:06:39,000
+Umurumda değil.
+
+2204
+02:06:42,000 --> 02:06:45,000
+Bir tek senin üzülmemen benim umurumda.
+
+2205
+02:06:47,000 --> 02:06:49,000
+Ben çok teşekkür ederim.
+
+2206
+02:06:51,000 --> 02:06:53,000
+Peki annem?
+
+2207
+02:06:54,000 --> 02:06:57,000
+O meseleyle ilgili sabah avukatla konuştum.
+
+2208
+02:06:59,000 --> 02:07:02,000
+Şu anda pek yapılacak bir şey yok gibi gözüküyor.
+
+2209
+02:07:05,000 --> 02:07:08,000
+Babanın istese annemi çıkarabilir biliyorsun değil mi?
+
+2210
+02:07:08,000 --> 02:07:10,000
+Alet değil o işler işte.
+
+2211
+02:07:12,000 --> 02:07:15,000
+Onun da adalet karşısında helikolu bağlı.
+
+2212
+02:07:21,000 --> 02:07:22,000
+Yok ya.
+
+2213
+02:07:23,000 --> 02:07:26,000
+Bunlar gerçekten beni el birliğiyle delirtecekler.
+
+2214
+02:07:27,000 --> 02:07:31,000
+Ben düşünmezsem neden bu evde kimse hiçbir şey düşünmüyor?
+
+2215
+02:07:31,000 --> 02:07:35,000
+Erkekler neden bu kadar gerizekalı aptal Orhan?
+
+2216
+02:07:40,000 --> 02:07:41,000
+Bana bak.
+
+2217
+02:07:41,000 --> 02:07:43,000
+Abidin asla bu kapıdan girmeyecek.
+
+2218
+02:07:44,000 --> 02:07:47,000
+Ne derse desin, kimle gelirse gelsin girmeyecek tamam mı?
+
+2219
+02:07:48,000 --> 02:07:49,000
+Anlaşıldı mı?
+
+2220
+02:07:50,000 --> 02:07:51,000
+Gel.
+
+2221
+02:07:53,000 --> 02:07:56,000
+İfakat Hanım, Seyran Hanım sizi salona rica ediyor. Sizi bekliyor.
+
+2222
+02:07:57,000 --> 02:07:58,000
+Tamam.
+
+2223
+02:07:58,000 --> 02:07:59,000
+Geliyorum.
+
+2224
+02:08:00,000 --> 02:08:01,000
+Orhan'a haber verdin mi?
+
+2225
+02:08:01,000 --> 02:08:02,000
+Vereceğim şimdi.
+
+2226
+02:08:03,000 --> 02:08:04,000
+Ver hadi.
+
+2227
+02:08:23,000 --> 02:08:24,000
+Günaydın.
+
+2228
+02:08:24,000 --> 02:08:25,000
+Günaydın.
+
+2229
+02:08:27,000 --> 02:08:29,000
+Diyar, günaydın.
+
+2230
+02:08:29,000 --> 02:08:31,000
+Seyran, günaydın.
+
+2231
+02:08:31,000 --> 02:08:33,000
+Antep'e geri dönüyormuşsun.
+
+2232
+02:08:33,000 --> 02:08:35,000
+Ay hayırlı olsun.
+
+2233
+02:08:35,000 --> 02:08:37,000
+Onların ne küşlemesi vardı değil mi?
+
+2234
+02:08:37,000 --> 02:08:39,000
+Ay sabahları da yiyor onlar.
+
+2235
+02:08:39,000 --> 02:08:41,000
+Nasıl canım çekti şimdi olsa da yesek.
+
+2236
+02:08:41,000 --> 02:08:43,000
+Ferit söyledi gideceğine.
+
+2237
+02:08:45,000 --> 02:08:48,000
+Sen hayırdır, yolcu etmeye mi geldin?
+
+2238
+02:08:48,000 --> 02:08:49,000
+Hayır.
+
+2239
+02:08:49,000 --> 02:08:51,000
+Odamızı artık bir dizayn etmek istiyorum.
+
+2240
+02:08:51,000 --> 02:08:53,000
+Hazır sen de gidiyorsun.
+
+2241
+02:08:53,000 --> 02:08:55,000
+Yani çok vakit kaybettik zaten diye düşünüyorum.
+
+2242
+02:08:57,000 --> 02:08:58,000
+Tüh be.
+
+2243
+02:09:00,000 --> 02:09:04,000
+Ya o plan bir süre daha bekleyecek galiba.
+
+2244
+02:09:05,000 --> 02:09:06,000
+Çünkü hiçbir yere gitmiyorum.
+
+2245
+02:09:07,000 --> 02:09:08,000
+Nasıl ya?
+
+2246
+02:09:08,000 --> 02:09:09,000
+Neden?
+
+2247
+02:09:09,000 --> 02:09:10,000
+Gitmiyorum hiçbir yere.
+
+2248
+02:09:14,000 --> 02:09:15,000
+Ne oldu?
+
+2249
+02:09:15,000 --> 02:09:16,000
+Üzgün gördüm seni.
+
+2250
+02:09:19,000 --> 02:09:20,000
+Yani sevinmedim.
+
+2251
+02:09:21,000 --> 02:09:22,000
+Tabii diyelim.
+
+2252
+02:09:24,000 --> 02:09:26,000
+Göründüğün kadar anlayışlı olmadığını biliyordum.
+
+2253
+02:09:27,000 --> 02:09:29,000
+Tabii ki anlayışlıyım Seyran.
+
+2254
+02:09:30,000 --> 02:09:31,000
+Ama aptal değilim.
+
+2255
+02:09:32,000 --> 02:09:34,000
+Seven de bir kadınım aynı zamanda.
+
+2256
+02:09:35,000 --> 02:09:37,000
+Ve benim de sabrımın bir sınırı var.
+
+2257
+02:09:37,000 --> 02:09:38,000
+Tabii ki.
+
+2258
+02:09:38,000 --> 02:09:40,000
+Aşma diyorsun o sınırı yani.
+
+2259
+02:09:40,000 --> 02:09:41,000
+Yani.
+
+2260
+02:09:41,000 --> 02:09:43,000
+Beni olmadığın birine dönüştürme diyorum.
+
+2261
+02:09:45,000 --> 02:09:46,000
+Nasıl biriymiş o?
+
+2262
+02:09:46,000 --> 02:09:50,000
+Benim olanı korumak için her şeyi yapacak biri.
+
+2263
+02:09:52,000 --> 02:09:54,000
+Koruman gerektiğini düşünüyorsan.
+

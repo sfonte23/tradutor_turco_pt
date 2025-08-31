@@ -1,0 +1,8 @@
+2359
+02:30:00,000 --> 02:30:04,160
+La Reyne.
+
+2360
+02:30:30,000 --> 02:30:32,000
+== Sincronização, corrigida por Elderman == @elder_man
+
